@@ -1,7 +1,10 @@
 ﻿<?xml version="1.0" ?>
-<PsychoPy2experiment encoding="utf-8" version="3.2.0">
+<PsychoPy2experiment encoding="utf-8" version="2021.2.3">
   <Settings>
+    <Param name="Audio latency priority" updates="None" val="use prefs" valType="str"/>
+    <Param name="Audio lib" updates="None" val="use prefs" valType="str"/>
     <Param name="Completed URL" updates="None" val="" valType="str"/>
+    <Param name="Data file delimiter" updates="None" val="auto" valType="str"/>
     <Param name="Data filename" updates="None" val="'data/%s_%s_%s' %(expInfo['participant'], expName, expInfo['date'])" valType="code"/>
     <Param name="Enable Escape" updates="None" val="True" valType="bool"/>
     <Param name="Experiment info" updates="None" val="{u'gender': u'', u'age': u'', u'participant': u''}" valType="code"/>
@@ -11,8 +14,10 @@
     <Param name="Incomplete URL" updates="None" val="" valType="str"/>
     <Param name="JS libs" updates="None" val="packaged" valType="str"/>
     <Param name="Monitor" updates="None" val="testMonitor" valType="str"/>
+    <Param name="Resources" updates="None" val="[]" valType="list"/>
     <Param name="Save csv file" updates="None" val="False" valType="bool"/>
     <Param name="Save excel file" updates="None" val="False" valType="bool"/>
+    <Param name="Save hdf5 file" updates="None" val="False" valType="bool"/>
     <Param name="Save log file" updates="None" val="True" valType="bool"/>
     <Param name="Save psydat file" updates="None" val="True" valType="bool"/>
     <Param name="Save wide csv file" updates="None" val="True" valType="bool"/>
@@ -25,17 +30,39 @@
     <Param name="blendMode" updates="None" val="avg" valType="str"/>
     <Param name="color" updates="None" val="$[-1.000,-1.000,-1.000]" valType="str"/>
     <Param name="colorSpace" updates="None" val="rgb" valType="str"/>
+    <Param name="elAddress" updates="None" val="100.1.1.1" valType="str"/>
+    <Param name="elDataFiltering" updates="None" val="FILTER_LEVEL_2" valType="str"/>
+    <Param name="elLiveFiltering" updates="None" val="FILTER_LEVEL_OFF" valType="str"/>
+    <Param name="elModel" updates="None" val="EYELINK 1000 DESKTOP" valType="str"/>
+    <Param name="elPupilAlgorithm" updates="None" val="ELLIPSE_FIT" valType="str"/>
+    <Param name="elPupilMeasure" updates="None" val="PUPIL_AREA" valType="str"/>
+    <Param name="elSampleRate" updates="None" val="1000" valType="num"/>
+    <Param name="elSimMode" updates="None" val="False" valType="bool"/>
+    <Param name="elTrackEyes" updates="None" val="RIGHT_EYE" valType="str"/>
+    <Param name="elTrackingMode" updates="None" val="PUPIL_CR_TRACKING" valType="str"/>
     <Param name="expName" updates="None" val="IAT" valType="str"/>
     <Param name="exportHTML" updates="None" val="on Sync" valType="str"/>
+    <Param name="eyetracker" updates="None" val="None" valType="str"/>
+    <Param name="gpAddress" updates="None" val="127.0.0.1" valType="str"/>
+    <Param name="gpPort" updates="None" val="4242" valType="num"/>
     <Param name="logging level" updates="None" val="warning" valType="code"/>
+    <Param name="mgBlink" updates="None" val="MIDDLE_BUTTON" valType="list"/>
+    <Param name="mgMove" updates="None" val="CONTINUOUS" valType="str"/>
+    <Param name="mgSaccade" updates="None" val="0.5" valType="num"/>
+    <Param name="tbLicenseFile" updates="None" val="" valType="str"/>
+    <Param name="tbModel" updates="None" val="" valType="str"/>
+    <Param name="tbSampleRate" updates="None" val="60" valType="num"/>
+    <Param name="tbSerialNo" updates="None" val="" valType="str"/>
   </Settings>
   <Routines>
     <Routine name="trial">
       <CodeComponent name="trials_code">
-        <Param name="Begin Experiment" updates="constant" val="#declare accuracy feedback message variable&amp;#10;msg=&quot;&quot;" valType="extendedCode"/>
+        <Param name="Before Experiment" updates="constant" val="" valType="extendedCode"/>
+        <Param name="Before JS Experiment" updates="constant" val="" valType="extendedCode"/>
+        <Param name="Begin Experiment" updates="constant" val="#declare accuracy feedback message variable&amp;#10;msg=&quot;&quot;&amp;#10;&amp;#10;# debugging (Anzu)&amp;#10;image_stimulus = &quot;&quot;" valType="extendedCode"/>
         <Param name="Begin JS Experiment" updates="constant" val="" valType="extendedCode"/>
         <Param name="Begin JS Routine" updates="constant" val="" valType="extendedCode"/>
-        <Param name="Begin Routine" updates="constant" val="# choose a random exemplar from the appropriate trial type list&amp;#10;if trial_type == 1:&amp;#10;    text_stimulus = text_trial_type_1_trials.pop()&amp;#10;    image_stimulus = img_trial_type_1_trials.pop()&amp;#10;elif trial_type == 2:&amp;#10;    text_stimulus = text_trial_type_2_trials.pop()&amp;#10;    image_stimulus = img_trial_type_2_trials.pop()&amp;#10;elif trial_type == 3:&amp;#10;    text_stimulus = text_trial_type_3_trials.pop()&amp;#10;    image_stimulus = img_trial_type_3_trials.pop()&amp;#10;elif trial_type == 4:&amp;#10;    text_stimulus = text_trial_type_4_trials.pop()&amp;#10;    image_stimulus = img_trial_type_4_trials.pop()&amp;#10;&amp;#10;# set stimulus colors based on trial type&amp;#10;if trial_type == 1 or trial_type == 2:&amp;#10;     stimulusColor = [1, 1, 1]&amp;#10;elif trial_type &gt;2:&amp;#10;     stimulusColor = [-1, 1, -1]&amp;#10;&amp;#10;# set required and feedback responses&amp;#10;# attributes are invariate across blocks so can be determined based on trial type only&amp;#10;if trial_type == 3: #pos&amp;#10;    requiredAllowed = &quot;i&quot;&amp;#10;    requiredCorrect = &quot;i&quot;&amp;#10;    feedbackAllowed = &quot;e&quot;&amp;#10;    feedbackCorrect = &quot;e&quot;&amp;#10;elif trial_type == 4: #neg&amp;#10;    requiredAllowed = &quot;e&quot;&amp;#10;    requiredCorrect = &quot;e&quot;&amp;#10;    feedbackAllowed = &quot;i&quot;&amp;#10;    feedbackCorrect = &quot;i&quot;&amp;#10;# categories depend on block order, current block and trial type&amp;#10;if block_order == 1: &amp;#10;    if blocks.thisN &lt;= 3:&amp;#10;        if trial_type == 1: #flowers&amp;#10;            requiredAllowed = &quot;i&quot;&amp;#10;            requiredCorrect = &quot;i&quot;&amp;#10;            feedbackAllowed = &quot;e&quot;&amp;#10;            feedbackCorrect = &quot;e&quot;&amp;#10;        elif trial_type == 2: #insects&amp;#10;            requiredAllowed = &quot;e&quot;&amp;#10;            requiredCorrect = &quot;e&quot;&amp;#10;            feedbackAllowed = &quot;i&quot;&amp;#10;            feedbackCorrect = &quot;i&quot;&amp;#10;    elif blocks.thisN &gt;= 3:&amp;#10;        if trial_type == 1: #flowers&amp;#10;            requiredAllowed = &quot;e&quot;&amp;#10;            requiredCorrect = &quot;e&quot;&amp;#10;            feedbackAllowed = &quot;i&quot;&amp;#10;            feedbackCorrect = &quot;i&quot;&amp;#10;        elif trial_type == 2: #insects&amp;#10;            requiredAllowed = &quot;i&quot;&amp;#10;            requiredCorrect = &quot;i&quot;&amp;#10;            feedbackAllowed = &quot;e&quot;&amp;#10;            feedbackCorrect = &quot;e&quot;&amp;#10;elif block_order == 2: &amp;#10;    if blocks.thisN &lt;= 3:&amp;#10;        if trial_type == 1: #flowers&amp;#10;            requiredAllowed = &quot;e&quot;&amp;#10;            requiredCorrect = &quot;e&quot;&amp;#10;            feedbackAllowed = &quot;i&quot;&amp;#10;            feedbackCorrect = &quot;i&quot;&amp;#10;        elif trial_type == 2: #insects&amp;#10;            requiredAllowed = &quot;i&quot;&amp;#10;            requiredCorrect = &quot;i&quot;&amp;#10;            feedbackAllowed = &quot;e&quot;&amp;#10;            feedbackCorrect = &quot;e&quot;&amp;#10;    elif blocks.thisN &gt;= 3:&amp;#10;        if trial_type == 1: #flowers&amp;#10;            requiredAllowed = &quot;i&quot;&amp;#10;            requiredCorrect = &quot;i&quot;&amp;#10;            feedbackAllowed = &quot;e&quot;&amp;#10;            feedbackCorrect = &quot;e&quot;&amp;#10;        elif trial_type == 2: #insects&amp;#10;            requiredAllowed = &quot;e&quot;&amp;#10;            requiredCorrect = &quot;e&quot;&amp;#10;            feedbackAllowed = &quot;i&quot;&amp;#10;            feedbackCorrect = &quot;i&quot;" valType="extendedCode"/>
+        <Param name="Begin Routine" updates="constant" val="# choose a random exemplar from the appropriate trial type list&amp;#10;if trial_type == 1:&amp;#10;    text_stimulus = text_trial_type_1_trials.pop()&amp;#10;    image_stimulus = img_trial_type_1_trials.pop()&amp;#10;elif trial_type == 2:&amp;#10;    text_stimulus = text_trial_type_2_trials.pop()&amp;#10;    image_stimulus = img_trial_type_2_trials.pop()&amp;#10;elif trial_type == 3:&amp;#10;    text_stimulus = text_trial_type_3_trials.pop()&amp;#10;    image_stimulus = img_trial_type_3_trials.pop()&amp;#10;elif trial_type == 4:&amp;#10;    text_stimulus = text_trial_type_4_trials.pop()&amp;#10;    image_stimulus = img_trial_type_4_trials.pop()&amp;#10;&amp;#10;# set stimulus colors based on trial type&amp;#10;if trial_type == 1 or trial_type == 2:&amp;#10;     stimulusColor = [1, 1, 1]&amp;#10;elif trial_type &gt;2:&amp;#10;     stimulusColor = [-1, 1, -1]&amp;#10;&amp;#10;# set required and feedback responses&amp;#10;# attributes are invariate across blocks so can be determined based on trial type only&amp;#10;if trial_type == 3: #pos&amp;#10;    requiredAllowed = &quot;i&quot;&amp;#10;    requiredCorrect = &quot;i&quot;&amp;#10;    feedbackAllowed = &quot;e&quot;&amp;#10;    feedbackCorrect = &quot;e&quot;&amp;#10;elif trial_type == 4: #neg&amp;#10;    requiredAllowed = &quot;e&quot;&amp;#10;    requiredCorrect = &quot;e&quot;&amp;#10;    feedbackAllowed = &quot;i&quot;&amp;#10;    feedbackCorrect = &quot;i&quot;&amp;#10;# categories depend on block order, current block and trial type&amp;#10;&amp;#10;if block_order == 1: &amp;#10;    if blocks.thisN &lt;= 3:&amp;#10;        if trial_type == 1: #flowers&amp;#10;            requiredAllowed = &quot;i&quot;&amp;#10;            requiredCorrect = &quot;i&quot;&amp;#10;            feedbackAllowed = &quot;e&quot;&amp;#10;            feedbackCorrect = &quot;e&quot;&amp;#10;        elif trial_type == 2: #insects&amp;#10;            requiredAllowed = &quot;e&quot;&amp;#10;            requiredCorrect = &quot;e&quot;&amp;#10;            feedbackAllowed = &quot;i&quot;&amp;#10;            feedbackCorrect = &quot;i&quot;&amp;#10;    elif blocks.thisN &gt;= 3:&amp;#10;        if trial_type == 1: #flowers&amp;#10;            requiredAllowed = &quot;e&quot;&amp;#10;            requiredCorrect = &quot;e&quot;&amp;#10;            feedbackAllowed = &quot;i&quot;&amp;#10;            feedbackCorrect = &quot;i&quot;&amp;#10;        elif trial_type == 2: #insects&amp;#10;            requiredAllowed = &quot;i&quot;&amp;#10;            requiredCorrect = &quot;i&quot;&amp;#10;            feedbackAllowed = &quot;e&quot;&amp;#10;            feedbackCorrect = &quot;e&quot;&amp;#10;            &amp;#10;elif block_order == 2: &amp;#10;    if blocks.thisN &lt;= 3:&amp;#10;        if trial_type == 1: #flowers&amp;#10;            requiredAllowed = &quot;e&quot;&amp;#10;            requiredCorrect = &quot;e&quot;&amp;#10;            feedbackAllowed = &quot;i&quot;&amp;#10;            feedbackCorrect = &quot;i&quot;&amp;#10;        elif trial_type == 2: #insects&amp;#10;            requiredAllowed = &quot;i&quot;&amp;#10;            requiredCorrect = &quot;i&quot;&amp;#10;            feedbackAllowed = &quot;e&quot;&amp;#10;            feedbackCorrect = &quot;e&quot;&amp;#10;    elif blocks.thisN &gt;= 3:&amp;#10;        if trial_type == 1: #flowers&amp;#10;            requiredAllowed = &quot;i&quot;&amp;#10;            requiredCorrect = &quot;i&quot;&amp;#10;            feedbackAllowed = &quot;e&quot;&amp;#10;            feedbackCorrect = &quot;e&quot;&amp;#10;        elif trial_type == 2: #insects&amp;#10;            requiredAllowed = &quot;e&quot;&amp;#10;            requiredCorrect = &quot;e&quot;&amp;#10;            feedbackAllowed = &quot;i&quot;&amp;#10;            feedbackCorrect = &quot;i&quot;" valType="extendedCode"/>
         <Param name="Code Type" updates="None" val="Py" valType="str"/>
         <Param name="Each Frame" updates="constant" val="if len(feedbackResponse.keys)&lt;1:&amp;#10;    msg=&quot;&quot;&amp;#10;else:&amp;#10;    msg=&quot;X&quot;" valType="extendedCode"/>
         <Param name="Each JS Frame" updates="constant" val="" valType="extendedCode"/>
@@ -49,6 +76,7 @@
       <ImageComponent name="stimulusImageBox">
         <Param name="color" updates="constant" val="$[1,1,1]" valType="str"/>
         <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="contrast" updates="constant" val="1" valType="num"/>
         <Param name="disabled" updates="None" val="False" valType="bool"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="flipHoriz" updates="constant" val="False" valType="bool"/>
@@ -74,6 +102,7 @@
       <TextComponent name="stimulusTextBox">
         <Param name="color" updates="set every repeat" val="$stimulusColor" valType="str"/>
         <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="contrast" updates="constant" val="1" valType="num"/>
         <Param name="disabled" updates="None" val="False" valType="bool"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="flip" updates="constant" val="" valType="str"/>
@@ -134,6 +163,7 @@
       <TextComponent name="feedback">
         <Param name="color" updates="constant" val="red" valType="str"/>
         <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="contrast" updates="constant" val="1" valType="num"/>
         <Param name="disabled" updates="None" val="False" valType="bool"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="flip" updates="constant" val="" valType="str"/>
@@ -158,6 +188,7 @@
       <TextComponent name="leftCategoryLabel">
         <Param name="color" updates="constant" val="white" valType="str"/>
         <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="contrast" updates="constant" val="1" valType="num"/>
         <Param name="disabled" updates="None" val="False" valType="bool"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="flip" updates="constant" val="" valType="str"/>
@@ -182,6 +213,7 @@
       <TextComponent name="rightCategoryLabel">
         <Param name="color" updates="constant" val="white" valType="str"/>
         <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="contrast" updates="constant" val="1" valType="num"/>
         <Param name="disabled" updates="None" val="False" valType="bool"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="flip" updates="constant" val="" valType="str"/>
@@ -206,6 +238,7 @@
       <TextComponent name="leftAttributeLabel">
         <Param name="color" updates="constant" val="$[-1, 1, -1]" valType="str"/>
         <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="contrast" updates="constant" val="1" valType="num"/>
         <Param name="disabled" updates="None" val="False" valType="bool"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="flip" updates="constant" val="" valType="str"/>
@@ -230,6 +263,7 @@
       <TextComponent name="rightAttributeLabel">
         <Param name="color" updates="constant" val="$[-1, 1, -1]" valType="str"/>
         <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="contrast" updates="constant" val="1" valType="num"/>
         <Param name="disabled" updates="None" val="False" valType="bool"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="flip" updates="constant" val="" valType="str"/>
@@ -254,6 +288,7 @@
       <TextComponent name="orLeft">
         <Param name="color" updates="constant" val="white" valType="str"/>
         <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="contrast" updates="constant" val="1" valType="num"/>
         <Param name="disabled" updates="None" val="False" valType="bool"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="flip" updates="constant" val="" valType="str"/>
@@ -278,6 +313,7 @@
       <TextComponent name="orRight">
         <Param name="color" updates="constant" val="white" valType="str"/>
         <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="contrast" updates="constant" val="1" valType="num"/>
         <Param name="disabled" updates="None" val="False" valType="bool"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="flip" updates="constant" val="" valType="str"/>
@@ -299,10 +335,37 @@
         <Param name="units" updates="None" val="from exp settings" valType="str"/>
         <Param name="wrapWidth" updates="constant" val="" valType="code"/>
       </TextComponent>
+      <TextComponent name="text_DEBUGGING">
+        <Param name="color" updates="constant" val="white" valType="color"/>
+        <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="contrast" updates="constant" val="1" valType="num"/>
+        <Param name="disabled" updates="None" val="False" valType="bool"/>
+        <Param name="durationEstim" updates="None" val="" valType="code"/>
+        <Param name="flip" updates="constant" val="None" valType="str"/>
+        <Param name="font" updates="constant" val="Open Sans" valType="str"/>
+        <Param name="languageStyle" updates="None" val="LTR" valType="str"/>
+        <Param name="letterHeight" updates="constant" val="0.1" valType="num"/>
+        <Param name="name" updates="None" val="text_DEBUGGING" valType="code"/>
+        <Param name="opacity" updates="constant" val="" valType="num"/>
+        <Param name="ori" updates="constant" val="0" valType="num"/>
+        <Param name="pos" updates="constant" val="(0, 0)" valType="list"/>
+        <Param name="saveStartStop" updates="None" val="True" valType="bool"/>
+        <Param name="startEstim" updates="None" val="" valType="code"/>
+        <Param name="startType" updates="None" val="time (s)" valType="str"/>
+        <Param name="startVal" updates="None" val="0.5" valType="code"/>
+        <Param name="stopType" updates="None" val="duration (s)" valType="str"/>
+        <Param name="stopVal" updates="constant" val="3.0" valType="code"/>
+        <Param name="syncScreenRefresh" updates="None" val="True" valType="bool"/>
+        <Param name="text" updates="set every repeat" val="$image_stimulus" valType="str"/>
+        <Param name="units" updates="None" val="from exp settings" valType="str"/>
+        <Param name="wrapWidth" updates="constant" val="" valType="num"/>
+      </TextComponent>
     </Routine>
     <Routine name="instruction">
       <CodeComponent name="block_code">
-        <Param name="Begin Experiment" updates="constant" val="# Dependencies&amp;#10;import itertools  # for flattening lists of lists into lists&amp;#10;import random&amp;#10;import math  # for math.ceil() rounding up&amp;#10;&amp;#10;# Import stimuli exemplars&amp;#10;exemplars_filename = 'stimuli.xlsx'&amp;#10;exemplars = data.importConditions(exemplars_filename)# Import stimuli exemplars&amp;#10;&amp;#10;# Determine rows of examplars (i.e., max number of rows)&amp;#10;&quot;&quot;&quot;&amp;#10;This method creates a fully counterbalanced presentation of exemplars when there are 5&amp;#10;of them, but it will not present each one an equal number of times it the n diverges from 5.&amp;#10;&quot;&quot;&quot;&amp;#10;n_exemplars = len(exemplars)&amp;#10;list_multiplier = int(math.ceil(10/n_exemplars))  # math.ceil() rounds up. 10 is the derived from way block lengths are calculated. Admittedly, this comment doensn't adequately document why it's ten. Honestly, I have to work it out of my fingers every time and can't explain it.&amp;#10;&amp;#10;# Trial generation function&amp;#10;def generate_trials(trial_type_column, multiplier):&amp;#10;    &quot;&quot;&quot;Generate a shuffled list of stimuli exemplars from a column in an excel stimuli file&quot;&quot;&quot; &amp;#10;    a = dict()  # declare a dict to be populated&amp;#10;    for i in range(len(exemplars)):&amp;#10;        a[i] = [exemplars[i][trial_type_column]] * multiplier  # populate the dict from vertical reads of the conditions&amp;#10;    a = a.values()  # extract only values (and not keys) from the list of dicts&amp;#10;    a = list(itertools.chain(*a))  # flatten the list of dicts into a list&amp;#10;    random.shuffle(a)  # shuffle this list, so that it can be drawn from by the trials&amp;#10;    return a&amp;#10;&amp;#10;# declare trial rows (not sure if necessary, but can't be bothered to removed and test)&amp;#10;trial_rows = &quot;&quot;&amp;#10;&amp;#10;# set block order based on participant code&amp;#10;participantNumber = int(expInfo['participant'])&amp;#10;if (participantNumber % 2) == 1: &amp;#10;    block_order = 1&amp;#10;elif (participantNumber % 2) == 0:&amp;#10;    block_order = 2&amp;#10;else:&amp;#10;    print(&quot;****condition file error: please enter a numeric participant code****&quot;)&amp;#10;" valType="extendedCode"/>
+        <Param name="Before Experiment" updates="constant" val="" valType="extendedCode"/>
+        <Param name="Before JS Experiment" updates="constant" val="" valType="extendedCode"/>
+        <Param name="Begin Experiment" updates="constant" val="# Dependencies&amp;#10;import itertools  # for flattening lists of lists into lists&amp;#10;import random&amp;#10;import math  # for math.ceil() rounding up&amp;#10;&amp;#10;# Import stimuli exemplars&amp;#10;exemplars_filename = 'stimuli.xlsx'&amp;#10;exemplars = data.importConditions(exemplars_filename)# Import stimuli exemplars&amp;#10;&amp;#10;# Determine rows of examplars (i.e., max number of rows)&amp;#10;&quot;&quot;&quot;&amp;#10;This method creates a fully counterbalanced presentation of exemplars when there are 5&amp;#10;of them, but it will not present each one an equal number of times it the n diverges from 5.&amp;#10;&quot;&quot;&quot;&amp;#10;n_exemplars = len(exemplars)&amp;#10;print(n_exemplars)&amp;#10;&amp;#10;list_multiplier = int(math.ceil(10/n_exemplars))  # math.ceil() rounds up. 10 is the derived from way block lengths are calculated. Admittedly, this comment doensn't adequately document why it's ten. Honestly, I have to work it out of my fingers every time and can't explain it.&amp;#10;&amp;#10;# Trial generation function&amp;#10;def generate_trials(trial_type_column, multiplier):&amp;#10;    &quot;&quot;&quot;Generate a shuffled list of stimuli exemplars from a column in an excel stimuli file&quot;&quot;&quot; &amp;#10;    a = dict()  # declare a dict to be populated&amp;#10;    for i in range(len(exemplars)):&amp;#10;        a[i] = [exemplars[i][trial_type_column]] * multiplier  # populate the dict from vertical reads of the conditions&amp;#10;    a = a.values()  # extract only values (and not keys) from the list of dicts&amp;#10;    a = list(itertools.chain(*a))  # flatten the list of dicts into a list&amp;#10;    random.shuffle(a)  # shuffle this list, so that it can be drawn from by the trials&amp;#10;    return a&amp;#10;&amp;#10;# declare trial rows (not sure if necessary, but can't be bothered to removed and test)&amp;#10;trial_rows = &quot;&quot;&amp;#10;&amp;#10;# set block order based on participant code&amp;#10;participantNumber = int(expInfo['participant'])&amp;#10;if (participantNumber % 2) == 1: &amp;#10;    block_order = 1&amp;#10;elif (participantNumber % 2) == 0:&amp;#10;    block_order = 2&amp;#10;else:&amp;#10;    print(&quot;****condition file error: please enter a numeric participant code****&quot;)&amp;#10;" valType="extendedCode"/>
         <Param name="Begin JS Experiment" updates="constant" val="" valType="extendedCode"/>
         <Param name="Begin JS Routine" updates="constant" val="" valType="extendedCode"/>
         <Param name="Begin Routine" updates="constant" val="# set the block length and the rows to pull from based on the current block &amp;#10;# this layout follows Nosek et al. 2007, &quot;The Implicit Association Test at age 7: A methodological and conceptual review&quot;&amp;#10;if blocks.thisN == 0:&amp;#10;    trial_rows = &quot;0:2&quot; &amp;#10;    n_block_repeats = 10   #2*10 = 20 trials&amp;#10;    modified_list_multiplier = list_multiplier&amp;#10;elif blocks.thisN == 1:&amp;#10;    trial_rows = &quot;2:4&quot; &amp;#10;    n_block_repeats = 10   #2*10 = 20 trials&amp;#10;    modified_list_multiplier = list_multiplier&amp;#10;elif blocks.thisN == 2:&amp;#10;    trial_rows = &quot;0:4&quot; &amp;#10;    n_block_repeats = 5   #4*5 = 20 trials&amp;#10;    modified_list_multiplier = list_multiplier&amp;#10;elif blocks.thisN == 3:&amp;#10;    trial_rows = &quot;0:4&quot; &amp;#10;    n_block_repeats = 10   #4*10 = 40 trials&amp;#10;    modified_list_multiplier = list_multiplier&amp;#10;elif blocks.thisN == 4:&amp;#10;    trial_rows = &quot;0:2&quot; &amp;#10;    n_block_repeats = 20   #2*20 = 40 trials&amp;#10;    modified_list_multiplier = list_multiplier * 2  # because this block has a different trials:categories ratio&amp;#10;elif blocks.thisN == 5:&amp;#10;    trial_rows = &quot;0:4&quot; &amp;#10;    n_block_repeats = 5   #4*5 = 20 trials&amp;#10;    modified_list_multiplier = list_multiplier&amp;#10;elif blocks.thisN == 6:&amp;#10;    trial_rows = &quot;0:4&quot; &amp;#10;    n_block_repeats = 10   #4*10 = 40 trials&amp;#10;    modified_list_multiplier = list_multiplier&amp;#10;&amp;#10;# Generate list of stimuli for the block&amp;#10;text_trial_type_1_trials = generate_trials('text_trial_type_1_exemplars', modified_list_multiplier)  # function and variable determined at begin exp.&amp;#10;text_trial_type_2_trials = generate_trials('text_trial_type_2_exemplars', modified_list_multiplier)&amp;#10;text_trial_type_3_trials = generate_trials('text_trial_type_3_exemplars', modified_list_multiplier)&amp;#10;text_trial_type_4_trials = generate_trials('text_trial_type_4_exemplars', modified_list_multiplier)&amp;#10;img_trial_type_1_trials = generate_trials('img_trial_type_1_exemplars', modified_list_multiplier)&amp;#10;img_trial_type_2_trials = generate_trials('img_trial_type_2_exemplars', modified_list_multiplier)&amp;#10;img_trial_type_3_trials = generate_trials('img_trial_type_3_exemplars', modified_list_multiplier)&amp;#10;img_trial_type_4_trials = generate_trials('img_trial_type_4_exemplars', modified_list_multiplier)&amp;#10;&amp;#10;# set category and attribute labels based on the block order and current block&amp;#10;if block_order == 1 and blocks.thisN &lt;= 3:&amp;#10;    leftCategory = categoryA&amp;#10;    rightCategory = categoryB&amp;#10;elif block_order == 1 and blocks.thisN &gt; 3:&amp;#10;    leftCategory = categoryB&amp;#10;    rightCategory = categoryA&amp;#10;elif block_order == 2 and blocks.thisN &lt;= 3:&amp;#10;    leftCategory = categoryB&amp;#10;    rightCategory = categoryA&amp;#10;elif block_order == 2 and blocks.thisN &gt; 3:&amp;#10;    leftCategory = categoryA&amp;#10;    rightCategory = categoryB" valType="extendedCode"/>
@@ -319,6 +382,7 @@
       <TextComponent name="instructionsBox">
         <Param name="color" updates="constant" val="white" valType="str"/>
         <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="contrast" updates="constant" val="1" valType="num"/>
         <Param name="disabled" updates="None" val="False" valType="bool"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="flip" updates="constant" val="" valType="str"/>
@@ -361,6 +425,7 @@
       <TextComponent name="leftCategoryLabel_2">
         <Param name="color" updates="constant" val="white" valType="str"/>
         <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="contrast" updates="constant" val="1" valType="num"/>
         <Param name="disabled" updates="None" val="False" valType="bool"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="flip" updates="constant" val="" valType="str"/>
@@ -385,6 +450,7 @@
       <TextComponent name="rightCategoryLabel_2">
         <Param name="color" updates="constant" val="white" valType="str"/>
         <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="contrast" updates="constant" val="1" valType="num"/>
         <Param name="disabled" updates="None" val="False" valType="bool"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="flip" updates="constant" val="" valType="str"/>
@@ -409,6 +475,7 @@
       <TextComponent name="leftAttributeLabel_2">
         <Param name="color" updates="constant" val="$[-1, 1, -1]" valType="str"/>
         <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="contrast" updates="constant" val="1" valType="num"/>
         <Param name="disabled" updates="None" val="False" valType="bool"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="flip" updates="constant" val="" valType="str"/>
@@ -433,6 +500,7 @@
       <TextComponent name="rightAttributeLabel_2">
         <Param name="color" updates="constant" val="$[-1, 1, -1]" valType="str"/>
         <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="contrast" updates="constant" val="1" valType="num"/>
         <Param name="disabled" updates="None" val="False" valType="bool"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="flip" updates="constant" val="" valType="str"/>
@@ -457,6 +525,7 @@
       <TextComponent name="orLeft_2">
         <Param name="color" updates="constant" val="white" valType="str"/>
         <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="contrast" updates="constant" val="1" valType="num"/>
         <Param name="disabled" updates="None" val="False" valType="bool"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="flip" updates="constant" val="" valType="str"/>
@@ -481,6 +550,7 @@
       <TextComponent name="orRight_2">
         <Param name="color" updates="constant" val="white" valType="str"/>
         <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="contrast" updates="constant" val="1" valType="num"/>
         <Param name="disabled" updates="None" val="False" valType="bool"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="flip" updates="constant" val="" valType="str"/>
@@ -507,6 +577,7 @@
       <TextComponent name="endBox">
         <Param name="color" updates="constant" val="white" valType="str"/>
         <Param name="colorSpace" updates="constant" val="rgb" valType="str"/>
+        <Param name="contrast" updates="constant" val="1" valType="num"/>
         <Param name="disabled" updates="None" val="False" valType="bool"/>
         <Param name="durationEstim" updates="None" val="" valType="code"/>
         <Param name="flip" updates="constant" val="" valType="str"/>
@@ -533,7 +604,7 @@
   <Flow>
     <LoopInitiator loopType="TrialHandler" name="blocks">
       <Param name="Selected rows" updates="None" val="" valType="str"/>
-      <Param name="conditions" updates="None" val="[{'block': 1, 'instructions': 'In this response task will you have to react to words and propositions that are presented on the screen. In the next phase words will be presented in ORANGE.\n\nIt is your job to decide as soon as possible whether the word refers to TRUE or FALSE.\n\nPress the I key if the word is synonymous with TRUE.\nPress the E key if the word is a synonym for FALSE.\n\nIf you make a mistake, hit the correct key as soon as possible.\n\nPut your two index fingers on the E and I keys. Press either one to start.'}, {'block': 2, 'instructions': &quot;The next phase some propositions will be presented in BLUE.\nThese propositons are always statements about SELF ESTEEM.\n\nYou must respond AS IF 'I am good and not bad'.\n\nPress the I key when the statement is TRUE according to the above rule.\nPress the E key when the statement is FALSE according to the above rule.\n\nFor example:\nWhen the proposition 'I am valuable' appears, respond with the right response (TRUE).\nWhen the proposition 'I am worthless' appears, respond with the left response (FALSE).\n\nIf you make a mistake hit the correct key as soon as possible.\n\nPut your two index fingers on the E and I keys. Press either one to start.&quot;}, {'block': 3, 'instructions': &quot;Very good!\n\nThe next phase some words will be presented in ORANGE and some propositions in BLUE. These propositons are always statements about SELF ESTEEM.\n\nAgain, you must respond AS IF 'I am good and not bad'.\n\nPress the I key when the statement is TRUE according to the above rule.\nPress the E key when the statement is FALSE according to the above rule.\n\nThe rule that you must respond to the orange words does not change:\n\nPress the I key if the word is synonymous with TRUE.\nPress the E key if the word is a synonym for FALSE.\n\nIf you make a mistake hit the correct key as soon as possible.\n\nPut your two index fingers on the E and I keys. Press either one to start.&quot;}, {'block': 4, 'instructions': &quot;IMPORANT: THE RULE FOR THE BLUE STATEMENTS HAS NOW CHANGED.\n\nYou must respond AS IF 'I am bad and not good'.\n\nPress the I key when the statement is TRUE according to the above rule.\nPress the E key when the statement is FALSE according to the above rule.\n\nFor example:\nWhen the proposition 'I am valuable' appears, respond with the left response (FALSE).\nWhen the proposition 'I am worthless' appears, respond with the right response (TRUE).\n\nIf you make a mistake, hit the correct key as soon as possible.\n\nPut your two index fingers on the E and I keys. Press either one to start.&quot;}, {'block': 5, 'instructions': &quot;Very good!\n\nThe next phase will again present words in ORANGE and statements in BLUE.\n\nAgain, you must respond AS IF 'I am bad and not good'.\n\nPress the I key when the statement is TRUE according to the above rule.\nPress the E key when the statement is FALSE according to the above rule.\n\nThe rule that you must respond to the orange words does not change:\nPress the I key if the word is synonymous with TRUE.\nPress the E key if the word is a synonym for FALSE.\n\nIf you make a mistake, hit the correct key as soon as possible.\n\nPut your two index fingers on the E and I keys. Press either one to start.&quot;}]" valType="str"/>
+      <Param name="conditions" updates="None" val="[{'instructions': 'Put your middle or index fingers on the E and I keys of your keyboard. Words representing the categories at the top will appear one-by-one in the middle of the screen. When the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. If you make an error, an X will appear - fix the error by hitting the other key.\n\nThis is a timed sorting task. GO AS FAST AS YOU CAN while making as few mistakes as possible. Going too slow or making too many errors will result in an uninterpretable score. This task will take about 5 minutes to complete.\n\nPress E or I to continue.', 'categoryA': 'African Americans', 'categoryB': 'European Americans', 'leftAttribute': ' ', 'rightAttribute': ' ', 'orStimulus': ' '}, {'instructions': 'See above, the categories have changed. The items for sorting have changed as well. The rules, however, are the same.\n\nWhen the item belongs to a category on the left, press the E key; when the item belongs to a category on the right, press the I key. Items belong to only one category. An X appears after an error - fix the error by hitting the other key. GO AS FAST AS YOU CAN.\n\nPress E or I to continue.', 'categoryA': ' ', 'categoryB': ' ', 'leftAttribute': 'Good', 'rightAttribute': 'Bad', 'orStimulus': ' '}, {'instructions': 'See above, the four categories you saw separately now appear together. Remember, each item belongs to only one group.\n\nThe green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into four groups left and right, and correct errors by hitting the other key.\n\nPress E or I to continue.', 'categoryA': 'African Americans', 'categoryB': 'European Americans', 'leftAttribute': 'Good', 'rightAttribute': 'Bad', 'orStimulus': 'or'}, {'instructions': 'Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.\n\nThe green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.\n\nPress E or I to continue.', 'categoryA': 'African Americans', 'categoryB': 'European Americans', 'leftAttribute': 'Good', 'rightAttribute': 'Bad', 'orStimulus': 'or'}, {'instructions': 'Notice above, there are only two cateogries and they have switched positions. The concept that was previously on the left is now on the right, and the concept that was on the right is now on the left. Practice this new configuration.\n\nUse the E and I keys to catgorize items left and right, and correct errors by hitting the other key.\n\nPress E or I to continue.', 'categoryA': 'African Americans', 'categoryB': 'European Americans', 'leftAttribute': ' ', 'rightAttribute': ' ', 'orStimulus': ' '}, {'instructions': 'See above, the four categories now appear together in a new configuration. Remember, each item belongs to only one group.\n\nThe green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.\n\nPress E or I to continue.', 'categoryA': 'African Americans', 'categoryB': 'European Americans', 'leftAttribute': 'Good', 'rightAttribute': 'Bad', 'orStimulus': 'or'}, {'instructions': 'Sort the same four categories again. Remember to go as fast as you can while making as few mistakes as possible.\n\nThe green and white labels and items may help to identify the appropriate category. Use the E and I keys to categorize items into the four groups left and right, and correct errors by hitting the other key.\n\nPress E or I to continue.', 'categoryA': 'African Americans', 'categoryB': 'European Americans', 'leftAttribute': 'Good', 'rightAttribute': 'Bad', 'orStimulus': 'or'}]" valType="str"/>
       <Param name="conditionsFile" updates="None" val="instructions.xlsx" valType="str"/>
       <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
       <Param name="isTrials" updates="None" val="False" valType="bool"/>
@@ -545,7 +616,7 @@
     <Routine name="instruction"/>
     <LoopInitiator loopType="TrialHandler" name="trials">
       <Param name="Selected rows" updates="None" val="$trial_rows" valType="str"/>
-      <Param name="conditions" updates="None" val="[{'stimulusText': 'text_trial_type_1', 'stimulusImage': 'img_trial_type_1', 'trialtype': 1}, {'stimulusText': 'text_trial_type_2', 'stimulusImage': 'img_trial_type_2', 'trialtype': 2}, {'stimulusText': 'text_trial_type_3', 'stimulusImage': 'img_trial_type_3', 'trialtype': 3}, {'stimulusText': 'text_trial_type_4', 'stimulusImage': 'img_trial_type_4', 'trialtype': 4}]" valType="str"/>
+      <Param name="conditions" updates="None" val="[{'trial_type': 1, 'stimulusText': 'text_trial_type_1', 'stimulusImage': 'img_trial_type_1'}, {'trial_type': 2, 'stimulusText': 'text_trial_type_2', 'stimulusImage': 'img_trial_type_2'}, {'trial_type': 3, 'stimulusText': 'text_trial_type_3', 'stimulusImage': 'img_trial_type_3'}, {'trial_type': 4, 'stimulusText': 'text_trial_type_4', 'stimulusImage': 'img_trial_type_4'}]" valType="str"/>
       <Param name="conditionsFile" updates="None" val="block_layout.xlsx" valType="str"/>
       <Param name="endPoints" updates="None" val="[0, 1]" valType="num"/>
       <Param name="isTrials" updates="None" val="True" valType="bool"/>
