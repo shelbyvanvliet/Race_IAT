@@ -1,5 +1,7 @@
 # Open Source Implicit Association Test
 
+(not this one - note by Anzu Sekikawa)
+
 Written in PsychoPy, but more flexible than the version bundled with it.
 
 PLEASE NOTE THAT I NO LONGER MAINTAIN THIS CODE. AS PSYCHOPY HAS BEEN UPDATED OVER TIME, IT MAY HAVE BROKEN FEATURES. FEEL FREE TO FORK, FIX AND MAINTAIN THIS CODE IF YOU WISH.
