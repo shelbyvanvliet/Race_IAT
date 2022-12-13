@@ -1,0 +1,1982 @@
+﻿instructions,categoryA,categoryB,leftAttribute,rightAttribute,orStimulus,instructionIMG,trial_type,stimulusText,stimulusImage,blocks.thisRepN,blocks.thisTrialN,blocks.thisN,blocks.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,instructionsIMG.started,leftCategoryLabel_2.started,rightCategoryLabel_2.started,leftAttributeLabel_2.started,rightAttributeLabel_2.started,orLeft_2.started,orRight_2.started,instructionsKey.started,leftCategoryLabel.started,rightCategoryLabel.started,leftAttributeLabel.started,rightAttributeLabel.started,orLeft.started,orRight.started,stimulusImageBox.started,stimulusTextBox.started,requiredResponse.started,feedbackResponse.started,feedback.started,requiredResponse.keys,requiredResponse.corr,requiredResponse.rt,feedbackResponse.keys,feedbackResponse.corr,feedbackResponse.rt,endBox.started,endBox.stopped,gender,age,participant,date,expName,psychopyVersion,frameRate,
+"Part 1 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+Items will appear one at a time.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_1.jpg,2,text_trial_type_2,img_trial_type_2,0,0,0,0,0,0,0,1,33.06655099987984,33.06655099987984,33.06655099987984,33.06655099987984,33.06655099987984,33.06655099987984,33.06655099987984,35.055893800221384,69.79129880014807,69.79129880014807,69.79129880014807,69.79129880014807,69.79129880014807,69.79129880014807,70.0566938999109,70.0566938999109,70.0566938999109,70.0566938999109,70.0566938999109,i,1,0.9947493998333812,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 1 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+Items will appear one at a time.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_1.jpg,2,text_trial_type_2,img_trial_type_2,0,0,0,0,0,1,1,1,,,,,,,,,71.07262019999325,71.07262019999325,71.07262019999325,71.07262019999325,71.07262019999325,71.07262019999325,71.3566367002204,71.3566367002204,71.3566367002204,71.3566367002204,71.3566367002204,i,1,0.8805058002471924,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 1 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+Items will appear one at a time.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_1.jpg,1,text_trial_type_1,img_trial_type_1,0,0,0,0,1,0,2,0,,,,,,,,,72.25607410026714,72.25607410026714,72.25607410026714,72.25607410026714,72.25607410026714,72.25607410026714,72.5565499002114,72.5565499002114,72.5565499002114,72.5565499002114,72.5565499002114,e,1,0.8403523997403681,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 1 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+Items will appear one at a time.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_1.jpg,2,text_trial_type_2,img_trial_type_2,0,0,0,0,1,1,3,1,,,,,,,,,73.4228521999903,73.4228521999903,73.4228521999903,73.4228521999903,73.4228521999903,73.4228521999903,73.72320399992168,73.72320399992168,73.72320399992168,73.72320399992168,73.72320399992168,i,1,0.7897461000829935,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 1 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+Items will appear one at a time.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_1.jpg,1,text_trial_type_1,img_trial_type_1,0,0,0,0,2,0,4,0,,,,,,,,,74.5398357999511,74.5398357999511,74.5398357999511,74.5398357999511,74.5398357999511,74.5398357999511,74.84050140017644,74.84050140017644,74.84050140017644,74.84050140017644,74.84050140017644,e,1,0.8323527998290956,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 1 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+Items will appear one at a time.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_1.jpg,2,text_trial_type_2,img_trial_type_2,0,0,0,0,2,1,5,1,,,,,,,,,75.68944190023467,75.68944190023467,75.68944190023467,75.68944190023467,75.68944190023467,75.68944190023467,75.99019790021703,75.99019790021703,75.99019790021703,75.99019790021703,75.99019790021703,i,1,0.7983303000219166,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 1 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+Items will appear one at a time.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_1.jpg,1,text_trial_type_1,img_trial_type_1,0,0,0,0,3,0,6,0,,,,,,,,,76.80620349990204,76.80620349990204,76.80620349990204,76.80620349990204,76.80620349990204,76.80620349990204,77.10674350010231,77.10674350010231,77.10674350010231,77.10674350010231,77.10674350010231,e,1,0.7628402998670936,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 1 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+Items will appear one at a time.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_1.jpg,1,text_trial_type_1,img_trial_type_1,0,0,0,0,3,1,7,0,,,,,,,,,77.88976030005142,77.88976030005142,77.88976030005142,77.88976030005142,77.88976030005142,77.88976030005142,78.19014690024778,78.19014690024778,78.19014690024778,78.19014690024778,78.19014690024778,e,1,1.1999254999682307,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 1 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+Items will appear one at a time.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_1.jpg,1,text_trial_type_1,img_trial_type_1,0,0,0,0,4,0,8,0,,,,,,,,,79.40629590023309,79.40629590023309,79.40629590023309,79.40629590023309,79.40629590023309,79.40629590023309,79.70624280022457,79.70624280022457,79.70624280022457,79.70624280022457,79.70624280022457,e,1,0.8976595997810364,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 1 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+Items will appear one at a time.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_1.jpg,2,text_trial_type_2,img_trial_type_2,0,0,0,0,4,1,9,1,,,,,,,,,80.62325929990038,80.62325929990038,80.62325929990038,80.62325929990038,80.62325929990038,80.62325929990038,80.92325620027259,80.92325620027259,80.92325620027259,80.92325620027259,80.92325620027259,i,1,0.7304773996584117,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 1 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+Items will appear one at a time.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_1.jpg,1,text_trial_type_1,img_trial_type_1,0,0,0,0,5,0,10,0,,,,,,,,,81.67576780030504,81.67576780030504,81.67576780030504,81.67576780030504,81.67576780030504,81.67576780030504,81.97307759989053,81.97307759989053,81.97307759989053,81.97307759989053,81.97307759989053,e,1,0.7668364001438022,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 1 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+Items will appear one at a time.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_1.jpg,2,text_trial_type_2,img_trial_type_2,0,0,0,0,5,1,11,1,,,,,,,,,82.75621350016445,82.75621350016445,82.75621350016445,82.75621350016445,82.75621350016445,82.75621350016445,83.05724810017273,83.05724810017273,83.05724810017273,83.05724810017273,83.05724810017273,i,1,0.6617534002289176,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 1 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+Items will appear one at a time.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_1.jpg,2,text_trial_type_2,img_trial_type_2,0,0,0,0,6,0,12,1,,,,,,,,,83.73947340017185,83.73947340017185,83.73947340017185,83.73947340017185,83.73947340017185,83.73947340017185,84.04004940018058,84.04004940018058,84.04004940018058,84.04004940018058,84.04004940018058,i,1,0.7033179001882672,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 1 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+Items will appear one at a time.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_1.jpg,1,text_trial_type_1,img_trial_type_1,0,0,0,0,6,1,13,0,,,,,,,,,84.77288779988885,84.77288779988885,84.77288779988885,84.77288779988885,84.77288779988885,84.77288779988885,85.07310539996251,85.07310539996251,85.07310539996251,85.07310539996251,85.07310539996251,e,1,0.7207554001361132,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 1 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+Items will appear one at a time.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_1.jpg,1,text_trial_type_1,img_trial_type_1,0,0,0,0,7,0,14,0,,,,,,,,,85.82277239998803,85.82277239998803,85.82277239998803,85.82277239998803,85.82277239998803,85.82277239998803,86.12362590013072,86.12362590013072,86.12362590013072,86.12362590013072,86.12362590013072,e,1,0.7825643001124263,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 1 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+Items will appear one at a time.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_1.jpg,1,text_trial_type_1,img_trial_type_1,0,0,0,0,7,1,15,0,,,,,,,,,86.92369389999658,86.92369389999658,86.92369389999658,86.92369389999658,86.92369389999658,86.92369389999658,87.22347290022299,87.22347290022299,87.22347290022299,87.22347290022299,87.22347290022299,e,1,0.7296146997250617,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 1 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+Items will appear one at a time.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_1.jpg,2,text_trial_type_2,img_trial_type_2,0,0,0,0,8,0,16,1,,,,,,,,,87.97369370004162,87.97369370004162,87.97369370004162,87.97369370004162,87.97369370004162,87.97369370004162,88.27388400025666,88.27388400025666,88.27388400025666,88.27388400025666,88.27388400025666,i,1,0.7135085999034345,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 1 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+Items will appear one at a time.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_1.jpg,1,text_trial_type_1,img_trial_type_1,0,0,0,0,8,1,17,0,,,,,,,,,89.00620530033484,89.00620530033484,89.00620530033484,89.00620530033484,89.00620530033484,89.00620530033484,89.30671910010278,89.30671910010278,89.30671910010278,89.30671910010278,89.30671910010278,e,1,0.6649440000765026,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 1 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+Items will appear one at a time.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_1.jpg,2,text_trial_type_2,img_trial_type_2,0,0,0,0,9,0,18,1,,,,,,,,,89.98975649988279,89.98975649988279,89.98975649988279,89.98975649988279,89.98975649988279,89.98975649988279,90.29048940027133,90.29048940027133,90.29048940027133,90.29048940027133,90.29048940027133,i,1,0.6993388002738357,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 1 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+Items will appear one at a time.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_1.jpg,2,text_trial_type_2,img_trial_type_2,0,0,0,0,9,1,19,1,,,,,,,,,91.00665020011365,91.00665020011365,91.00665020011365,91.00665020011365,91.00665020011365,91.00665020011365,91.30668690009043,91.30668690009043,91.30668690009043,91.30668690009043,91.30668690009043,i,1,0.6917924000881612,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 2 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.", , ,Bad,Good, ,instr_2.jpg,3,text_trial_type_3,img_trial_type_3,0,1,1,1,0,0,0,0,92.77463980019093,92.77463980019093,92.77463980019093,92.77463980019093,92.77463980019093,92.77463980019093,92.77463980019093,94.77386859990656,107.78371190000325,107.78371190000325,107.78371190000325,107.78371190000325,107.78371190000325,107.78371190000325,108.02411350002512,108.02411350002512,108.02411350002512,108.02411350002512,108.02411350002512,i,1,1.5380958998575807,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 2 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.", , ,Bad,Good, ,instr_2.jpg,4,text_trial_type_4,img_trial_type_4,0,1,1,1,0,1,1,1,,,,,,,,,109.60443200031295,109.60443200031295,109.60443200031295,109.60443200031295,109.60443200031295,109.60443200031295,109.89134000008926,109.89134000008926,109.89134000008926,109.89134000008926,109.89134000008926,e,1,0.9572489997372031,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 2 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.", , ,Bad,Good, ,instr_2.jpg,4,text_trial_type_4,img_trial_type_4,0,1,1,1,1,0,2,1,,,,,,,,,110.92195890005678,110.92195890005678,110.92195890005678,110.92195890005678,110.92195890005678,110.92195890005678,111.19120780006051,111.19120780006051,111.19120780006051,111.19120780006051,111.19120780006051,e,1,1.0342912999913096,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 2 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.", , ,Bad,Good, ,instr_2.jpg,3,text_trial_type_3,img_trial_type_3,0,1,1,1,1,1,3,0,,,,,,,,,112.26676620030776,112.26676620030776,112.26676620030776,112.26676620030776,112.26676620030776,112.26676620030776,112.55707640014589,112.55707640014589,112.55707640014589,112.55707640014589,112.55707640014589,i,1,0.8635454000905156,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 2 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.", , ,Bad,Good, ,instr_2.jpg,4,text_trial_type_4,img_trial_type_4,0,1,1,1,2,0,4,1,,,,,,,,,113.45302650006488,113.45302650006488,113.45302650006488,113.45302650006488,113.45302650006488,113.45302650006488,113.74090309999883,113.74090309999883,113.74090309999883,113.74090309999883,113.74090309999883,e,1,0.9020044999197125,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 2 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.", , ,Bad,Good, ,instr_2.jpg,3,text_trial_type_3,img_trial_type_3,0,1,1,1,2,1,5,0,,,,,,,,,114.68766720034182,114.68766720034182,114.68766720034182,114.68766720034182,114.68766720034182,114.68766720034182,114.97430319990963,114.97430319990963,114.97430319990963,114.97430319990963,114.97430319990963,i,1,0.8714533997699618,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 2 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.", , ,Bad,Good, ,instr_2.jpg,3,text_trial_type_3,img_trial_type_3,0,1,1,1,3,0,6,0,,,,,,,,,115.88504050020128,115.88504050020128,115.88504050020128,115.88504050020128,115.88504050020128,115.88504050020128,116.17456849990413,116.17456849990413,116.17456849990413,116.17456849990413,116.17456849990413,i,1,0.8659561001695693,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 2 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.", , ,Bad,Good, ,instr_2.jpg,4,text_trial_type_4,img_trial_type_4,0,1,1,1,3,1,7,1,,,,,,,,,117.07098100008443,117.07098100008443,117.07098100008443,117.07098100008443,117.07098100008443,117.07098100008443,117.35781709989533,117.35781709989533,117.35781709989533,117.35781709989533,117.35781709989533,e,1,0.6614490002393723,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 2 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.", , ,Bad,Good, ,instr_2.jpg,4,text_trial_type_4,img_trial_type_4,0,1,1,1,4,0,8,1,,,,,,,,,118.05389370024204,118.05389370024204,118.05389370024204,118.05389370024204,118.05389370024204,118.05389370024204,118.3414945001714,118.3414945001714,118.3414945001714,118.3414945001714,118.3414945001714,e,1,0.7825517999008298,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 2 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.", , ,Bad,Good, ,instr_2.jpg,4,text_trial_type_4,img_trial_type_4,0,1,1,1,4,1,9,1,,,,,,,,,119.1459069000557,119.1459069000557,119.1459069000557,119.1459069000557,119.1459069000557,119.1459069000557,119.44093240005895,119.44093240005895,119.44093240005895,119.44093240005895,119.44093240005895,e,1,0.7406667997129261,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 2 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.", , ,Bad,Good, ,instr_2.jpg,3,text_trial_type_3,img_trial_type_3,0,1,1,1,5,0,10,0,,,,,,,,,120.21513630030677,120.21513630030677,120.21513630030677,120.21513630030677,120.21513630030677,120.21513630030677,120.50737009989098,120.50737009989098,120.50737009989098,120.50737009989098,120.50737009989098,i,1,0.7892036000266671,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 2 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.", , ,Bad,Good, ,instr_2.jpg,4,text_trial_type_4,img_trial_type_4,0,1,1,1,5,1,11,1,,,,,,,,,121.33385990001261,121.33385990001261,121.33385990001261,121.33385990001261,121.33385990001261,121.33385990001261,121.62426720000803,121.62426720000803,121.62426720000803,121.62426720000803,121.62426720000803,e,1,0.6184022999368608,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 2 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.", , ,Bad,Good, ,instr_2.jpg,3,text_trial_type_3,img_trial_type_3,0,1,1,1,6,0,12,0,,,,,,,,,122.28107730019838,122.28107730019838,122.28107730019838,122.28107730019838,122.28107730019838,122.28107730019838,122.5745238000527,122.5745238000527,122.5745238000527,122.5745238000527,122.5745238000527,i,1,0.7608821000903845,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 2 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.", , ,Bad,Good, ,instr_2.jpg,3,text_trial_type_3,img_trial_type_3,0,1,1,1,6,1,13,0,,,,,,,,,123.36962290015072,123.36962290015072,123.36962290015072,123.36962290015072,123.36962290015072,123.36962290015072,123.65782350022346,123.65782350022346,123.65782350022346,123.65782350022346,123.65782350022346,i,1,0.7442675996571779,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 2 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.", , ,Bad,Good, ,instr_2.jpg,3,text_trial_type_3,img_trial_type_3,0,1,1,1,7,0,14,0,,,,,,,,,124.43546169996262,124.43546169996262,124.43546169996262,124.43546169996262,124.43546169996262,124.43546169996262,124.72438930021599,124.72438930021599,124.72438930021599,124.72438930021599,124.72438930021599,i,1,0.6550870998762548,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 2 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.", , ,Bad,Good, ,instr_2.jpg,3,text_trial_type_3,img_trial_type_3,0,1,1,1,7,1,15,0,,,,,,,,,125.42169360024855,125.42169360024855,125.42169360024855,125.42169360024855,125.42169360024855,125.42169360024855,125.70777689991519,125.70777689991519,125.70777689991519,125.70777689991519,125.70777689991519,i,1,0.8698342000134289,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 2 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.", , ,Bad,Good, ,instr_2.jpg,4,text_trial_type_4,img_trial_type_4,0,1,1,1,8,0,16,1,,,,,,,,,126.62078940030187,126.62078940030187,126.62078940030187,126.62078940030187,126.62078940030187,126.62078940030187,126.90767899993807,126.90767899993807,126.90767899993807,126.90767899993807,126.90767899993807,e,1,0.6540538002736866,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 2 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.", , ,Bad,Good, ,instr_2.jpg,4,text_trial_type_4,img_trial_type_4,0,1,1,1,8,1,17,1,,,,,,,,,127.6035783002153,127.6035783002153,127.6035783002153,127.6035783002153,127.6035783002153,127.6035783002153,127.89116590004414,127.89116590004414,127.89116590004414,127.89116590004414,127.89116590004414,e,1,0.6619476997293532,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 2 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.", , ,Bad,Good, ,instr_2.jpg,4,text_trial_type_4,img_trial_type_4,0,1,1,1,9,0,18,1,,,,,,,,,128.58482770016417,128.58482770016417,128.58482770016417,128.58482770016417,128.58482770016417,128.58482770016417,128.87464300030842,128.87464300030842,128.87464300030842,128.87464300030842,128.87464300030842,e,1,0.6203672997653484,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 2 of 7
+
+Put a left finger on the 'E' key for items that belong to the category on the left.
+Put a right finger on the 'I' key for items that belong to the category on the right.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.", , ,Bad,Good, ,instr_2.jpg,3,text_trial_type_3,img_trial_type_3,0,1,1,1,9,1,19,0,,,,,,,,,129.53614909993485,129.53614909993485,129.53614909993485,129.53614909993485,129.53614909993485,129.53614909993485,129.82423420017585,129.82423420017585,129.82423420017585,129.82423420017585,129.82423420017585,i,1,0.6368027999997139,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 3 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_3.jpg,3,text_trial_type_3,img_trial_type_3,0,2,2,2,0,0,0,2,131.24137810012326,131.24137810012326,131.24137810012326,131.24137810012326,131.24137810012326,131.24137810012326,131.24137810012326,133.24094420019537,151.918110600207,151.918110600207,151.918110600207,151.918110600207,151.918110600207,151.918110600207,152.15840610023588,152.15840610023588,152.15840610023588,152.15840610023588,152.15840610023588,i,1,0.9479678999632597,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 3 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_3.jpg,1,text_trial_type_1,img_trial_type_1,0,2,2,2,0,1,1,0,,,,,,,,,153.1468716999516,153.1468716999516,153.1468716999516,153.1468716999516,153.1468716999516,153.1468716999516,153.42471490008757,153.42471490008757,153.42471490008757,153.42471490008757,153.42471490008757,e,1,0.7433853000402451,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 3 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_3.jpg,2,text_trial_type_2,img_trial_type_2,0,2,2,2,0,2,2,1,,,,,,,,,154.19138179998845,154.19138179998845,154.19138179998845,154.19138179998845,154.19138179998845,154.19138179998845,154.49119340023026,154.49119340023026,154.49119340023026,154.49119340023026,154.49119340023026,i,1,0.8100601001642644,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 3 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_3.jpg,1,text_trial_type_1,img_trial_type_1,0,2,2,2,0,3,3,0,,,,,,,,,155.3242013999261,155.3242013999261,155.3242013999261,155.3242013999261,155.3242013999261,155.3242013999261,155.6243444001302,155.6243444001302,155.6243444001302,155.6243444001302,155.6243444001302,e,1,0.839113799855113,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 3 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_3.jpg,3,text_trial_type_3,img_trial_type_3,0,2,2,2,1,0,4,2,,,,,,,,,156.50882339989766,156.50882339989766,156.50882339989766,156.50882339989766,156.50882339989766,156.50882339989766,156.79166360013187,156.79166360013187,156.79166360013187,156.79166360013187,156.79166360013187,i,1,0.7720663999207318,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 3 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_3.jpg,1,text_trial_type_1,img_trial_type_1,0,2,2,2,1,1,5,0,,,,,,,,,157.5928831002675,157.5928831002675,157.5928831002675,157.5928831002675,157.5928831002675,157.5928831002675,157.8917417000048,157.8917417000048,157.8917417000048,157.8917417000048,157.8917417000048,e,1,0.8461890001781285,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 3 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_3.jpg,1,text_trial_type_1,img_trial_type_1,0,2,2,2,1,2,6,0,,,,,,,,,158.75831820024177,158.75831820024177,158.75831820024177,158.75831820024177,158.75831820024177,158.75831820024177,159.05844300007448,159.05844300007448,159.05844300007448,159.05844300007448,159.05844300007448,e,1,0.7989889997988939,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 3 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_3.jpg,2,text_trial_type_2,img_trial_type_2,0,2,2,2,1,3,7,1,,,,,,,,,159.8749065999873,159.8749065999873,159.8749065999873,159.8749065999873,159.8749065999873,159.8749065999873,160.17520470032468,160.17520470032468,160.17520470032468,160.17520470032468,160.17520470032468,i,1,0.7424792000092566,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 3 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_3.jpg,3,text_trial_type_3,img_trial_type_3,0,2,2,2,2,0,8,2,,,,,,,,,160.95891840010881,160.95891840010881,160.95891840010881,160.95891840010881,160.95891840010881,160.95891840010881,161.24146849988028,161.24146849988028,161.24146849988028,161.24146849988028,161.24146849988028,i,1,0.7260226001963019,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 3 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_3.jpg,2,text_trial_type_2,img_trial_type_2,0,2,2,2,2,1,9,1,,,,,,,,,161.99314900022,161.99314900022,161.99314900022,161.99314900022,161.99314900022,161.99314900022,162.29185330029577,162.29185330029577,162.29185330029577,162.29185330029577,162.29185330029577,i,1,0.6723513002507389,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 3 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_3.jpg,2,text_trial_type_2,img_trial_type_2,0,2,2,2,2,2,10,1,,,,,,,,,162.99100820021704,162.99100820021704,162.99100820021704,162.99100820021704,162.99100820021704,162.99100820021704,163.29192350013182,163.29192350013182,163.29192350013182,163.29192350013182,163.29192350013182,i,1,0.7395924003794789,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 3 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_3.jpg,4,text_trial_type_4,img_trial_type_4,0,2,2,2,2,3,11,3,,,,,,,,,164.0700055002235,164.0700055002235,164.0700055002235,164.0700055002235,164.0700055002235,164.0700055002235,164.3581004999578,164.3581004999578,164.3581004999578,164.3581004999578,164.3581004999578,e,1,0.6966333999298513,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 3 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_3.jpg,2,text_trial_type_2,img_trial_type_2,0,2,2,2,3,0,12,1,,,,,,,,,165.07652830006555,165.07652830006555,165.07652830006555,165.07652830006555,165.07652830006555,165.07652830006555,165.3749279002659,165.3749279002659,165.3749279002659,165.3749279002659,165.3749279002659,i,1,0.6306545999832451,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 3 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_3.jpg,4,text_trial_type_4,img_trial_type_4,0,2,2,2,3,1,13,3,,,,,,,,,166.04284840030596,166.04284840030596,166.04284840030596,166.04284840030596,166.04284840030596,166.04284840030596,166.32507220003754,166.32507220003754,166.32507220003754,166.32507220003754,166.32507220003754,e,1,0.9857926997356117,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 3 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_3.jpg,4,text_trial_type_4,img_trial_type_4,0,2,2,2,3,2,14,3,,,,,,,,,167.35873530013487,167.35873530013487,167.35873530013487,167.35873530013487,167.35873530013487,167.35873530013487,167.64223780017346,167.64223780017346,167.64223780017346,167.64223780017346,167.64223780017346,e,1,0.677190599963069,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 3 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_3.jpg,4,text_trial_type_4,img_trial_type_4,0,2,2,2,3,3,15,3,,,,,,,,,168.35417190007865,168.35417190007865,168.35417190007865,168.35417190007865,168.35417190007865,168.35417190007865,168.6417978000827,168.6417978000827,168.6417978000827,168.6417978000827,168.6417978000827,e,1,0.7149387001991272,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 3 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_3.jpg,3,text_trial_type_3,img_trial_type_3,0,2,2,2,4,0,16,2,,,,,,,,,169.38650029990822,169.38650029990822,169.38650029990822,169.38650029990822,169.38650029990822,169.38650029990822,169.67548179998994,169.67548179998994,169.67548179998994,169.67548179998994,169.67548179998994,i,1,0.6756079001352191,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 3 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_3.jpg,3,text_trial_type_3,img_trial_type_3,0,2,2,2,4,1,17,2,,,,,,,,,170.39646840002388,170.39646840002388,170.39646840002388,170.39646840002388,170.39646840002388,170.39646840002388,170.67549320030957,170.67549320030957,170.67549320030957,170.67549320030957,170.67549320030957,i,1,0.6680720001459122,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 3 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_3.jpg,1,text_trial_type_1,img_trial_type_1,0,2,2,2,4,2,18,0,,,,,,,,,171.37665880005807,171.37665880005807,171.37665880005807,171.37665880005807,171.37665880005807,171.37665880005807,171.6753019001335,171.6753019001335,171.6753019001335,171.6753019001335,171.6753019001335,e,1,0.9426539000123739,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 3 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_3.jpg,4,text_trial_type_4,img_trial_type_4,0,2,2,2,4,3,19,3,,,,,,,,,172.65192180033773,172.65192180033773,172.65192180033773,172.65192180033773,172.65192180033773,172.65192180033773,172.9426327003166,172.9426327003166,172.9426327003166,172.9426327003166,172.9426327003166,e,1,0.6914082001894712,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,1,text_trial_type_1,img_trial_type_1,0,3,3,3,0,0,0,0,174.4092631000094,174.4092631000094,174.4092631000094,174.4092631000094,174.4092631000094,174.4092631000094,174.4092631000094,176.4088968001306,187.29217980010435,187.29217980010435,187.29217980010435,187.29217980010435,187.29217980010435,187.29217980010435,187.5758286002092,187.5758286002092,187.5758286002092,187.5758286002092,187.5758286002092,e,1,0.7024782998487353,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,2,text_trial_type_2,img_trial_type_2,0,3,3,3,0,1,1,1,,,,,,,,,188.3089633001946,188.3089633001946,188.3089633001946,188.3089633001946,188.3089633001946,188.3089633001946,188.6092594000511,188.6092594000511,188.6092594000511,188.6092594000511,188.6092594000511,i,1,0.7120540998876095,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,4,text_trial_type_4,img_trial_type_4,0,3,3,3,0,2,2,3,,,,,,,,,189.36844839993864,189.36844839993864,189.36844839993864,189.36844839993864,189.36844839993864,189.36844839993864,189.64228110015392,189.64228110015392,189.64228110015392,189.64228110015392,189.64228110015392,e,1,0.7560068001039326,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,2,text_trial_type_2,img_trial_type_2,0,3,3,3,0,3,3,1,,,,,,,,,190.42747920006514,190.42747920006514,190.42747920006514,190.42747920006514,190.42747920006514,190.42747920006514,190.72586950007826,190.72586950007826,190.72586950007826,190.72586950007826,190.72586950007826,i,1,0.7160742999985814,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,1,text_trial_type_1,img_trial_type_1,0,3,3,3,1,0,4,0,,,,,,,,,191.45908850012347,191.45908850012347,191.45908850012347,191.45908850012347,191.45908850012347,191.45908850012347,191.7593642002903,191.7593642002903,191.7593642002903,191.7593642002903,191.7593642002903,e,1,0.6058851000852883,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,3,text_trial_type_3,img_trial_type_3,0,3,3,3,1,1,5,2,,,,,,,,,192.39823620021343,192.39823620021343,192.39823620021343,192.39823620021343,192.39823620021343,192.39823620021343,192.67643740028143,192.67643740028143,192.67643740028143,192.67643740028143,192.67643740028143,i,1,0.8182096001692116,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,3,text_trial_type_3,img_trial_type_3,0,3,3,3,1,2,6,2,,,,,,,,,193.53618329996243,193.53618329996243,193.53618329996243,193.53618329996243,193.53618329996243,193.53618329996243,193.8262900998816,193.8262900998816,193.8262900998816,193.8262900998816,193.8262900998816,i,1,0.673587600234896,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,4,text_trial_type_4,img_trial_type_4,0,3,3,3,1,3,7,3,,,,,,,,,194.53927950002253,194.53927950002253,194.53927950002253,194.53927950002253,194.53927950002253,194.53927950002253,194.82626349991187,194.82626349991187,194.82626349991187,194.82626349991187,194.82626349991187,e,1,0.6274746996350586,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,2,text_trial_type_2,img_trial_type_2,0,3,3,3,2,0,8,1,,,,,,,,,195.4778154999949,195.4778154999949,195.4778154999949,195.4778154999949,195.4778154999949,195.4778154999949,195.77642410015687,195.77642410015687,195.77642410015687,195.77642410015687,195.77642410015687,i,1,0.7683602999895811,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,2,text_trial_type_2,img_trial_type_2,0,3,3,3,2,1,9,1,,,,,,,,,196.57564890012145,196.57564890012145,196.57564890012145,196.57564890012145,196.57564890012145,196.57564890012145,196.87610730016604,196.87610730016604,196.87610730016604,196.87610730016604,196.87610730016604,i,1,0.6089260000735521,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,1,text_trial_type_1,img_trial_type_1,0,3,3,3,2,2,10,0,,,,,,,,,197.50882720015943,197.50882720015943,197.50882720015943,197.50882720015943,197.50882720015943,197.50882720015943,197.81002920027822,197.81002920027822,197.81002920027822,197.81002920027822,197.81002920027822,e,1,0.5318435998633504,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,3,text_trial_type_3,img_trial_type_3,0,3,3,3,2,3,11,2,,,,,,,,,198.36626090016216,198.36626090016216,198.36626090016216,198.36626090016216,198.36626090016216,198.36626090016216,198.6607653000392,198.6607653000392,198.6607653000392,198.6607653000392,198.6607653000392,i,1,0.6847046003676951,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,3,text_trial_type_3,img_trial_type_3,0,3,3,3,3,0,12,2,,,,,,,,,199.38969699991867,199.38969699991867,199.38969699991867,199.38969699991867,199.38969699991867,199.38969699991867,199.67615710012615,199.67615710012615,199.67615710012615,199.67615710012615,199.67615710012615,i,1,0.7051752000115812,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,1,text_trial_type_1,img_trial_type_1,0,3,3,3,3,1,13,0,,,,,,,,,200.4108438002877,200.4108438002877,200.4108438002877,200.4108438002877,200.4108438002877,200.4108438002877,200.70987850008532,200.70987850008532,200.70987850008532,200.70987850008532,200.70987850008532,e,1,0.5253236000426114,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,4,text_trial_type_4,img_trial_type_4,0,3,3,3,3,2,14,3,,,,,,,,,201.28270799992606,201.28270799992606,201.28270799992606,201.28270799992606,201.28270799992606,201.28270799992606,201.55970539990813,201.55970539990813,201.55970539990813,201.55970539990813,201.55970539990813,e,1,0.5764538999646902,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,4,text_trial_type_4,img_trial_type_4,0,3,3,3,3,3,15,3,,,,,,,,,202.16961980005726,202.16961980005726,202.16961980005726,202.16961980005726,202.16961980005726,202.16961980005726,202.45971960015595,202.45971960015595,202.45971960015595,202.45971960015595,202.45971960015595,e,1,0.568318699952215,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,3,text_trial_type_3,img_trial_type_3,0,3,3,3,4,0,16,2,,,,,,,,,203.07741010002792,203.07741010002792,203.07741010002792,203.07741010002792,203.07741010002792,203.07741010002792,203.3601414002478,203.3601414002478,203.3601414002478,203.3601414002478,203.3601414002478,i,1,0.5339774000458419,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,3,text_trial_type_3,img_trial_type_3,0,3,3,3,4,1,17,2,,,,,,,,,203.93466340005398,203.93466340005398,203.93466340005398,203.93466340005398,203.93466340005398,203.93466340005398,204.22620999999344,204.22620999999344,204.22620999999344,204.22620999999344,204.22620999999344,i,1,0.7145935003645718,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,4,text_trial_type_4,img_trial_type_4,0,3,3,3,4,2,18,3,,,,,,,,,204.96806479990482,204.96806479990482,204.96806479990482,204.96806479990482,204.96806479990482,204.96806479990482,205.2602095999755,205.2602095999755,205.2602095999755,205.2602095999755,205.2602095999755,e,1,0.5977425999008119,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,1,text_trial_type_1,img_trial_type_1,0,3,3,3,4,3,19,0,,,,,,,,,205.87807659991086,205.87807659991086,205.87807659991086,205.87807659991086,205.87807659991086,205.87807659991086,206.176387200132,206.176387200132,206.176387200132,206.176387200132,206.176387200132,e,1,0.6803707997314632,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,2,text_trial_type_2,img_trial_type_2,0,3,3,3,5,0,20,1,,,,,,,,,206.87566550029442,206.87566550029442,206.87566550029442,206.87566550029442,206.87566550029442,206.87566550029442,207.17602619994432,207.17602619994432,207.17602619994432,207.17602619994432,207.17602619994432,i,1,0.720457199960947,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,4,text_trial_type_4,img_trial_type_4,0,3,3,3,5,1,21,3,,,,,,,,,208.064322500024,208.064322500024,208.064322500024,208.064322500024,208.064322500024,208.064322500024,208.2264355001971,208.2264355001971,208.2264355001971,208.2264355001971,208.2264355001971,e,1,0.7136907000094652,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,4,text_trial_type_4,img_trial_type_4,0,3,3,3,5,2,22,3,,,,,,,,,208.96806770004332,208.96806770004332,208.96806770004332,208.96806770004332,208.96806770004332,208.96806770004332,209.2604513000697,209.2604513000697,209.2604513000697,209.2604513000697,209.2604513000697,e,1,0.6475692000240088,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,2,text_trial_type_2,img_trial_type_2,0,3,3,3,5,3,23,1,,,,,,,,,209.92811870016158,209.92811870016158,209.92811870016158,209.92811870016158,209.92811870016158,209.92811870016158,210.2268376001157,210.2268376001157,210.2268376001157,210.2268376001157,210.2268376001157,i,1,0.81159139983356,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,2,text_trial_type_2,img_trial_type_2,0,3,3,3,6,0,24,1,,,,,,,,,211.0598114002496,211.0598114002496,211.0598114002496,211.0598114002496,211.0598114002496,211.0598114002496,211.3598509998992,211.3598509998992,211.3598509998992,211.3598509998992,211.3598509998992,i,1,0.6592528996989131,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,2,text_trial_type_2,img_trial_type_2,0,3,3,3,6,1,25,1,,,,,,,,,212.0424428000115,212.0424428000115,212.0424428000115,212.0424428000115,212.0424428000115,212.0424428000115,212.3426243001595,212.3426243001595,212.3426243001595,212.3426243001595,212.3426243001595,i,1,0.6680107000283897,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,3,text_trial_type_3,img_trial_type_3,0,3,3,3,6,2,26,2,,,,,,,,,213.05593780009076,213.05593780009076,213.05593780009076,213.05593780009076,213.05593780009076,213.05593780009076,213.3427579002455,213.3427579002455,213.3427579002455,213.3427579002455,213.3427579002455,i,1,0.6103615001775324,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,4,text_trial_type_4,img_trial_type_4,0,3,3,3,6,3,27,3,,,,,,,,,213.98694960027933,213.98694960027933,213.98694960027933,213.98694960027933,213.98694960027933,213.98694960027933,214.27611810015514,214.27611810015514,214.27611810015514,214.27611810015514,214.27611810015514,e,1,0.6200641999021173,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,3,text_trial_type_3,img_trial_type_3,0,3,3,3,7,0,28,2,,,,,,,,,214.93928869999945,214.93928869999945,214.93928869999945,214.93928869999945,214.93928869999945,214.93928869999945,215.2268560002558,215.2268560002558,215.2268560002558,215.2268560002558,215.2268560002558,i,1,0.6118771000765264,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,4,text_trial_type_4,img_trial_type_4,0,3,3,3,7,1,29,3,,,,,,,,,215.87211450003088,215.87211450003088,215.87211450003088,215.87211450003088,215.87211450003088,215.87211450003088,216.15945110004395,216.15945110004395,216.15945110004395,216.15945110004395,216.15945110004395,e,1,0.5294388998299837,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,1,text_trial_type_1,img_trial_type_1,0,3,3,3,7,2,30,0,,,,,,,,,216.71070510009304,216.71070510009304,216.71070510009304,216.71070510009304,216.71070510009304,216.71070510009304,217.009413999971,217.009413999971,217.009413999971,217.009413999971,217.009413999971,e,1,0.6205952004529536,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,2,text_trial_type_2,img_trial_type_2,0,3,3,3,7,3,31,1,,,,,,,,,217.6596968001686,217.6596968001686,217.6596968001686,217.6596968001686,217.6596968001686,217.6596968001686,217.9598822002299,217.9598822002299,217.9598822002299,217.9598822002299,217.9598822002299,i,1,0.5668854000978172,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,3,text_trial_type_3,img_trial_type_3,0,3,3,3,8,0,32,2,,,,,,,,,218.56679010018706,218.56679010018706,218.56679010018706,218.56679010018706,218.56679010018706,218.56679010018706,218.8599740001373,218.8599740001373,218.8599740001373,218.8599740001373,218.8599740001373,i,1,0.6959547000005841,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,1,text_trial_type_1,img_trial_type_1,0,3,3,3,8,1,33,0,,,,,,,,,219.57762430002913,219.57762430002913,219.57762430002913,219.57762430002913,219.57762430002913,219.57762430002913,219.8761070999317,219.8761070999317,219.8761070999317,219.8761070999317,219.8761070999317,e,1,0.6750215003266931,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,2,text_trial_type_2,img_trial_type_2,0,3,3,3,8,2,34,1,,,,,,,,,220.57610050030053,220.57610050030053,220.57610050030053,220.57610050030053,220.57610050030053,220.57610050030053,220.87599370023236,220.87599370023236,220.87599370023236,220.87599370023236,220.87599370023236,i,1,0.588982299901545,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,3,text_trial_type_3,img_trial_type_3,0,3,3,3,8,3,35,2,,,,,,,,,221.5039154002443,221.5039154002443,221.5039154002443,221.5039154002443,221.5039154002443,221.5039154002443,221.79307770030573,221.79307770030573,221.79307770030573,221.79307770030573,221.79307770030573,i,1,0.7404958996921778,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,1,text_trial_type_1,img_trial_type_1,0,3,3,3,9,0,36,0,,,,,,,,,222.56117619993165,222.56117619993165,222.56117619993165,222.56117619993165,222.56117619993165,222.56117619993165,222.85974169988185,222.85974169988185,222.85974169988185,222.85974169988185,222.85974169988185,e,1,0.5657260003499687,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,1,text_trial_type_1,img_trial_type_1,0,3,3,3,9,1,37,0,,,,,,,,,223.44282829994336,223.44282829994336,223.44282829994336,223.44282829994336,223.44282829994336,223.44282829994336,223.74284549988806,223.74284549988806,223.74284549988806,223.74284549988806,223.74284549988806,e,1,0.5854904996231198,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,4,text_trial_type_4,img_trial_type_4,0,3,3,3,9,2,38,3,,,,,,,,,224.37354149995372,224.37354149995372,224.37354149995372,224.37354149995372,224.37354149995372,224.37354149995372,224.66022650012746,224.66022650012746,224.66022650012746,224.66022650012746,224.66022650012746,e,1,0.6628394001163542,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 4 of 7
+
+This is the same as the previous part.
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right. 
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_4.jpg,1,text_trial_type_1,img_trial_type_1,0,3,3,3,9,3,39,0,,,,,,,,,225.34467650018632,225.34467650018632,225.34467650018632,225.34467650018632,225.34467650018632,225.34467650018632,225.64265830023214,225.64265830023214,225.64265830023214,225.64265830023214,225.64265830023214,e,1,0.6278583998791873,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,2,text_trial_type_2,img_trial_type_2,0,4,4,4,0,0,0,1,227.04309209994972,227.04309209994972,227.04309209994972,227.04309209994972,227.04309209994972,227.04309209994972,227.04309209994972,229.04291009996086,239.99748300015926,239.99748300015926,239.99748300015926,239.99748300015926,239.99748300015926,239.99748300015926,240.25975680025294,240.25975680025294,240.25975680025294,240.25975680025294,240.25975680025294,e,1,0.7229126999154687,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,2,text_trial_type_2,img_trial_type_2,0,4,4,4,0,1,1,1,,,,,,,,,241.00945350015536,241.00945350015536,241.00945350015536,241.00945350015536,241.00945350015536,241.00945350015536,241.30985580012202,241.30985580012202,241.30985580012202,241.30985580012202,241.30985580012202,e,1,0.6120402002707124,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,2,text_trial_type_2,img_trial_type_2,0,4,4,4,1,0,2,1,,,,,,,,,241.94323009997606,241.94323009997606,241.94323009997606,241.94323009997606,241.94323009997606,241.94323009997606,242.24327789992094,242.24327789992094,242.24327789992094,242.24327789992094,242.24327789992094,e,1,0.6024270001798868,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,2,text_trial_type_2,img_trial_type_2,0,4,4,4,1,1,3,1,,,,,,,,,242.8763798000291,242.8763798000291,242.8763798000291,242.8763798000291,242.8763798000291,242.8763798000291,243.17633859999478,243.17633859999478,243.17633859999478,243.17633859999478,243.17633859999478,e,1,0.6532302000559866,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,1,text_trial_type_1,img_trial_type_1,0,4,4,4,2,0,4,0,,,,,,,,,243.85982759995386,243.85982759995386,243.85982759995386,243.85982759995386,243.85982759995386,243.85982759995386,244.1597902001813,244.1597902001813,244.1597902001813,244.1597902001813,244.1597902001813,i,1,0.5536329001188278,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,1,text_trial_type_1,img_trial_type_1,0,4,4,4,2,1,5,0,,,,,,,,,244.74369940022007,244.74369940022007,244.74369940022007,244.74369940022007,244.74369940022007,244.74369940022007,245.04323669988662,245.04323669988662,245.04323669988662,245.04323669988662,245.04323669988662,i,1,0.5559539999812841,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,1,text_trial_type_1,img_trial_type_1,0,4,4,4,3,0,6,0,,,,,,,,,245.6267043002881,245.6267043002881,245.6267043002881,245.6267043002881,245.6267043002881,245.6267043002881,245.92685860022902,245.92685860022902,245.92685860022902,245.92685860022902,245.92685860022902,i,1,0.7786979000084102,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,1,text_trial_type_1,img_trial_type_1,0,4,4,4,3,1,7,0,,,,,,,,,246.7268888000399,246.7268888000399,246.7268888000399,246.7268888000399,246.7268888000399,246.7268888000399,247.02657710015774,247.02657710015774,247.02657710015774,247.02657710015774,247.02657710015774,i,1,0.5267229997552931,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,1,text_trial_type_1,img_trial_type_1,0,4,4,4,4,0,8,0,,,,,,,,,247.57664339989424,247.57664339989424,247.57664339989424,247.57664339989424,247.57664339989424,247.57664339989424,247.8770833001472,247.8770833001472,247.8770833001472,247.8770833001472,247.8770833001472,i,1,0.5630366997793317,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,2,text_trial_type_2,img_trial_type_2,0,4,4,4,4,1,9,1,,,,,,,,,248.45970909995958,248.45970909995958,248.45970909995958,248.45970909995958,248.45970909995958,248.45970909995958,248.75980730028823,248.75980730028823,248.75980730028823,248.75980730028823,248.75980730028823,e,1,0.6110371998511255,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,2,text_trial_type_2,img_trial_type_2,0,4,4,4,5,0,10,1,,,,,,,,,249.39345410000533,249.39345410000533,249.39345410000533,249.39345410000533,249.39345410000533,249.39345410000533,249.69385380018502,249.69385380018502,249.69385380018502,249.69385380018502,249.69385380018502,e,1,0.5805465001612902,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,2,text_trial_type_2,img_trial_type_2,0,4,4,4,5,1,11,1,,,,,,,,,250.29295690031722,250.29295690031722,250.29295690031722,250.29295690031722,250.29295690031722,250.29295690031722,250.59346010023728,250.59346010023728,250.59346010023728,250.59346010023728,250.59346010023728,e,1,1.579189999960363,i,1,0.5422622002661228,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,2,text_trial_type_2,img_trial_type_2,0,4,4,4,6,0,12,1,,,,,,,,,252.19341940013692,252.19341940013692,252.19341940013692,252.19341940013692,252.19341940013692,252.19341940013692,252.49384990008548,252.49384990008548,252.49384990008548,252.49384990008548,252.49384990008548,e,1,0.6015468998812139,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,2,text_trial_type_2,img_trial_type_2,0,4,4,4,6,1,13,1,,,,,,,,,253.12674160022289,253.12674160022289,253.12674160022289,253.12674160022289,253.12674160022289,253.12674160022289,253.42667060019448,253.42667060019448,253.42667060019448,253.42667060019448,253.42667060019448,e,1,0.6212947000749409,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,1,text_trial_type_1,img_trial_type_1,0,4,4,4,7,0,14,0,,,,,,,,,254.07647099997848,254.07647099997848,254.07647099997848,254.07647099997848,254.07647099997848,254.07647099997848,254.37724970001727,254.37724970001727,254.37724970001727,254.37724970001727,254.37724970001727,i,1,0.6585432002320886,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,2,text_trial_type_2,img_trial_type_2,0,4,4,4,7,1,15,1,,,,,,,,,255.06011260021478,255.06011260021478,255.06011260021478,255.06011260021478,255.06011260021478,255.06011260021478,255.36037570005283,255.36037570005283,255.36037570005283,255.36037570005283,255.36037570005283,e,1,0.6925285002216697,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,1,text_trial_type_1,img_trial_type_1,0,4,4,4,8,0,16,0,,,,,,,,,256.0763706001453,256.0763706001453,256.0763706001453,256.0763706001453,256.0763706001453,256.0763706001453,256.37699180003256,256.37699180003256,256.37699180003256,256.37699180003256,256.37699180003256,i,1,0.6272426997311413,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,2,text_trial_type_2,img_trial_type_2,0,4,4,4,8,1,17,1,,,,,,,,,257.0270739002153,257.0270739002153,257.0270739002153,257.0270739002153,257.0270739002153,257.0270739002153,257.326783800032,257.326783800032,257.326783800032,257.326783800032,257.326783800032,e,1,0.5253030001185834,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,2,text_trial_type_2,img_trial_type_2,0,4,4,4,9,0,18,1,,,,,,,,,257.8767025000416,257.8767025000416,257.8767025000416,257.8767025000416,257.8767025000416,257.8767025000416,258.17676050029695,258.17676050029695,258.17676050029695,258.17676050029695,258.17676050029695,e,1,0.5555785996839404,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,2,text_trial_type_2,img_trial_type_2,0,4,4,4,9,1,19,1,,,,,,,,,258.76028380030766,258.76028380030766,258.76028380030766,258.76028380030766,258.76028380030766,258.76028380030766,259.06075570033863,259.06075570033863,259.06075570033863,259.06075570033863,259.06075570033863,e,1,0.5322640002705157,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,2,text_trial_type_2,img_trial_type_2,0,4,4,4,10,0,20,1,,,,,,,,,259.6101103001274,259.6101103001274,259.6101103001274,259.6101103001274,259.6101103001274,259.6101103001274,259.9102909001522,259.9102909001522,259.9102909001522,259.9102909001522,259.9102909001522,e,1,0.5306498999707401,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,1,text_trial_type_1,img_trial_type_1,0,4,4,4,10,1,21,0,,,,,,,,,260.4601003001444,260.4601003001444,260.4601003001444,260.4601003001444,260.4601003001444,260.4601003001444,260.76030980004,260.76030980004,260.76030980004,260.76030980004,260.76030980004,i,1,0.5408183000981808,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,1,text_trial_type_1,img_trial_type_1,0,4,4,4,11,0,22,0,,,,,,,,,261.32653640024364,261.32653640024364,261.32653640024364,261.32653640024364,261.32653640024364,261.32653640024364,261.6271390002221,261.6271390002221,261.6271390002221,261.6271390002221,261.6271390002221,i,1,0.9287434001453221,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,1,text_trial_type_1,img_trial_type_1,0,4,4,4,11,1,23,0,,,,,,,,,262.576878500171,262.576878500171,262.576878500171,262.576878500171,262.576878500171,262.576878500171,262.87704230006784,262.87704230006784,262.87704230006784,262.87704230006784,262.87704230006784,i,1,0.6466171001084149,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,1,text_trial_type_1,img_trial_type_1,0,4,4,4,12,0,24,0,,,,,,,,,263.54343440011144,263.54343440011144,263.54343440011144,263.54343440011144,263.54343440011144,263.54343440011144,263.84364739991724,263.84364739991724,263.84364739991724,263.84364739991724,263.84364739991724,i,1,0.6650382000952959,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,1,text_trial_type_1,img_trial_type_1,0,4,4,4,12,1,25,0,,,,,,,,,264.52688920032233,264.52688920032233,264.52688920032233,264.52688920032233,264.52688920032233,264.52688920032233,264.82690729992464,264.82690729992464,264.82690729992464,264.82690729992464,264.82690729992464,i,1,0.6145703000947833,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,1,text_trial_type_1,img_trial_type_1,0,4,4,4,13,0,26,0,,,,,,,,,265.46069450024515,265.46069450024515,265.46069450024515,265.46069450024515,265.46069450024515,265.46069450024515,265.76017570029944,265.76017570029944,265.76017570029944,265.76017570029944,265.76017570029944,i,1,0.6163511998020113,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,1,text_trial_type_1,img_trial_type_1,0,4,4,4,13,1,27,0,,,,,,,,,266.3937850999646,266.3937850999646,266.3937850999646,266.3937850999646,266.3937850999646,266.3937850999646,266.69405629998073,266.69405629998073,266.69405629998073,266.69405629998073,266.69405629998073,i,1,0.7319999001920223,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,1,text_trial_type_1,img_trial_type_1,0,4,4,4,14,0,28,0,,,,,,,,,267.44358769990504,267.44358769990504,267.44358769990504,267.44358769990504,267.44358769990504,267.44358769990504,267.74403550010175,267.74403550010175,267.74403550010175,267.74403550010175,267.74403550010175,i,1,0.534860999789089,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,1,text_trial_type_1,img_trial_type_1,0,4,4,4,14,1,29,0,,,,,,,,,268.3103958000429,268.3103958000429,268.3103958000429,268.3103958000429,268.3103958000429,268.3103958000429,268.61048089992255,268.61048089992255,268.61048089992255,268.61048089992255,268.61048089992255,i,1,0.6640719999559224,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,1,text_trial_type_1,img_trial_type_1,0,4,4,4,15,0,30,0,,,,,,,,,269.29387630010024,269.29387630010024,269.29387630010024,269.29387630010024,269.29387630010024,269.29387630010024,269.5938699003309,269.5938699003309,269.5938699003309,269.5938699003309,269.5938699003309,i,1,0.5527391997165978,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,1,text_trial_type_1,img_trial_type_1,0,4,4,4,15,1,31,0,,,,,,,,,270.17736790003255,270.17736790003255,270.17736790003255,270.17736790003255,270.17736790003255,270.17736790003255,270.477243100293,270.477243100293,270.477243100293,270.477243100293,270.477243100293,i,1,0.5202482002787292,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,2,text_trial_type_2,img_trial_type_2,0,4,4,4,16,0,32,1,,,,,,,,,271.02669550012797,271.02669550012797,271.02669550012797,271.02669550012797,271.02669550012797,271.02669550012797,271.32729639997706,271.32729639997706,271.32729639997706,271.32729639997706,271.32729639997706,e,1,0.6039370000362396,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,2,text_trial_type_2,img_trial_type_2,0,4,4,4,16,1,33,1,,,,,,,,,271.96029110020027,271.96029110020027,271.96029110020027,271.96029110020027,271.96029110020027,271.96029110020027,272.26081030024216,272.26081030024216,272.26081030024216,272.26081030024216,272.26081030024216,e,1,0.5435766000300646,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,2,text_trial_type_2,img_trial_type_2,0,4,4,4,17,0,34,1,,,,,,,,,272.8270852002315,272.8270852002315,272.8270852002315,272.8270852002315,272.8270852002315,272.8270852002315,273.12714320002124,273.12714320002124,273.12714320002124,273.12714320002124,273.12714320002124,e,1,0.6657787999138236,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,1,text_trial_type_1,img_trial_type_1,0,4,4,4,17,1,35,0,,,,,,,,,273.8109293002635,273.8109293002635,273.8109293002635,273.8109293002635,273.8109293002635,273.8109293002635,274.11071670008823,274.11071670008823,274.11071670008823,274.11071670008823,274.11071670008823,i,1,0.688283400144428,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,1,text_trial_type_1,img_trial_type_1,0,4,4,4,18,0,36,0,,,,,,,,,274.8267096001655,274.8267096001655,274.8267096001655,274.8267096001655,274.8267096001655,274.8267096001655,275.12701399996877,275.12701399996877,275.12701399996877,275.12701399996877,275.12701399996877,i,1,0.5434439000673592,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,2,text_trial_type_2,img_trial_type_2,0,4,4,4,18,1,37,1,,,,,,,,,275.6938199000433,275.6938199000433,275.6938199000433,275.6938199000433,275.6938199000433,275.6938199000433,275.9941083001904,275.9941083001904,275.9941083001904,275.9941083001904,275.9941083001904,e,1,0.5709907002747059,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,2,text_trial_type_2,img_trial_type_2,0,4,4,4,19,0,38,1,,,,,,,,,276.5938323000446,276.5938323000446,276.5938323000446,276.5938323000446,276.5938323000446,276.5938323000446,276.89407590031624,276.89407590031624,276.89407590031624,276.89407590031624,276.89407590031624,e,1,0.5742415999993682,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 5 of 7
+
+WATCH OUT, THE LABELS HAVE CHANGED POSITION!
+Use the left finger on the 'E' for the category on the left.
+Use the right finger on the 'I' key for the category on the right.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People, , , ,instr_5.jpg,2,text_trial_type_2,img_trial_type_2,0,4,4,4,19,1,39,1,,,,,,,,,277.4940249999054,277.4940249999054,277.4940249999054,277.4940249999054,277.4940249999054,277.4940249999054,277.79377980018035,277.79377980018035,277.79377980018035,277.79377980018035,277.79377980018035,e,1,0.44878110010176897,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 6 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_6.jpg,2,text_trial_type_2,img_trial_type_2,0,5,5,5,0,0,0,1,279.0112406001426,279.0112406001426,279.0112406001426,279.0112406001426,279.0112406001426,279.0112406001426,279.0112406001426,281.01075999997556,288.591760000214,288.591760000214,288.591760000214,288.591760000214,288.591760000214,288.591760000214,288.87779049994424,288.87779049994424,288.87779049994424,288.87779049994424,288.87779049994424,e,1,0.8137807999737561,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 6 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_6.jpg,1,text_trial_type_1,img_trial_type_1,0,5,5,5,0,1,1,0,,,,,,,,,289.7110644001514,289.7110644001514,289.7110644001514,289.7110644001514,289.7110644001514,289.7110644001514,290.0108345001936,290.0108345001936,290.0108345001936,290.0108345001936,290.0108345001936,i,1,0.711406399961561,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 6 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_6.jpg,2,text_trial_type_2,img_trial_type_2,0,5,5,5,0,2,2,1,,,,,,,,,290.7444112999365,290.7444112999365,290.7444112999365,290.7444112999365,290.7444112999365,290.7444112999365,291.0442258003168,291.0442258003168,291.0442258003168,291.0442258003168,291.0442258003168,e,1,0.6532624000683427,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 6 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_6.jpg,1,text_trial_type_1,img_trial_type_1,0,5,5,5,0,3,3,0,,,,,,,,,291.72769120009616,291.72769120009616,291.72769120009616,291.72769120009616,291.72769120009616,291.72769120009616,292.02770540025085,292.02770540025085,292.02770540025085,292.02770540025085,292.02770540025085,i,1,0.5373077997937799,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 6 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_6.jpg,4,text_trial_type_4,img_trial_type_4,0,5,5,5,1,0,4,3,,,,,,,,,292.60182860028,292.60182860028,292.60182860028,292.60182860028,292.60182860028,292.60182860028,292.89477210026234,292.89477210026234,292.89477210026234,292.89477210026234,292.89477210026234,e,1,1.2837032000534236,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 6 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_6.jpg,2,text_trial_type_2,img_trial_type_2,0,5,5,5,1,1,5,1,,,,,,,,,294.1965520000085,294.1965520000085,294.1965520000085,294.1965520000085,294.1965520000085,294.1965520000085,294.49467430030927,294.49467430030927,294.49467430030927,294.49467430030927,294.49467430030927,e,1,1.3942499998956919,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 6 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_6.jpg,2,text_trial_type_2,img_trial_type_2,0,5,5,5,1,2,6,1,,,,,,,,,295.91128530027345,295.91128530027345,295.91128530027345,295.91128530027345,295.91128530027345,295.91128530027345,296.2110256003216,296.2110256003216,296.2110256003216,296.2110256003216,296.2110256003216,e,1,0.6923584002070129,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 6 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_6.jpg,4,text_trial_type_4,img_trial_type_4,0,5,5,5,1,3,7,3,,,,,,,,,296.94067870033905,296.94067870033905,296.94067870033905,296.94067870033905,296.94067870033905,296.94067870033905,297.2284566001035,297.2284566001035,297.2284566001035,297.2284566001035,297.2284566001035,e,1,0.7451906003989279,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 6 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_6.jpg,3,text_trial_type_3,img_trial_type_3,0,5,5,5,2,0,8,2,,,,,,,,,298.0136484000832,298.0136484000832,298.0136484000832,298.0136484000832,298.0136484000832,298.0136484000832,298.29492980008945,298.29492980008945,298.29492980008945,298.29492980008945,298.29492980008945,i,1,0.7721076002344489,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 6 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_6.jpg,3,text_trial_type_3,img_trial_type_3,0,5,5,5,2,1,9,2,,,,,,,,,299.108175100293,299.108175100293,299.108175100293,299.108175100293,299.108175100293,299.108175100293,299.3944087000564,299.3944087000564,299.3944087000564,299.3944087000564,299.3944087000564,i,1,0.7411878001876175,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 6 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_6.jpg,3,text_trial_type_3,img_trial_type_3,0,5,5,5,2,2,10,2,,,,,,,,,300.17084760032594,300.17084760032594,300.17084760032594,300.17084760032594,300.17084760032594,300.17084760032594,300.4613187001087,300.4613187001087,300.4613187001087,300.4613187001087,300.4613187001087,i,1,0.794212399981916,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 6 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_6.jpg,4,text_trial_type_4,img_trial_type_4,0,5,5,5,2,3,11,3,,,,,,,,,301.28365330025554,301.28365330025554,301.28365330025554,301.28365330025554,301.28365330025554,301.28365330025554,301.57796879997477,301.57796879997477,301.57796879997477,301.57796879997477,301.57796879997477,e,1,0.7742280000820756,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 6 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_6.jpg,3,text_trial_type_3,img_trial_type_3,0,5,5,5,3,0,12,2,,,,,,,,,302.38243849994615,302.38243849994615,302.38243849994615,302.38243849994615,302.38243849994615,302.38243849994615,302.67803420033306,302.67803420033306,302.67803420033306,302.67803420033306,302.67803420033306,i,1,1.501520900055766,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 6 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_6.jpg,2,text_trial_type_2,img_trial_type_2,0,5,5,5,3,1,13,1,,,,,,,,,304.21250370005146,304.21250370005146,304.21250370005146,304.21250370005146,304.21250370005146,304.21250370005146,304.51145259989426,304.51145259989426,304.51145259989426,304.51145259989426,304.51145259989426,e,1,0.9066488998942077,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 6 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_6.jpg,1,text_trial_type_1,img_trial_type_1,0,5,5,5,3,2,14,0,,,,,,,,,305.44410190032795,305.44410190032795,305.44410190032795,305.44410190032795,305.44410190032795,305.44410190032795,305.74453529994935,305.74453529994935,305.74453529994935,305.74453529994935,305.74453529994935,i,1,0.8832108997739851,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 6 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_6.jpg,3,text_trial_type_3,img_trial_type_3,0,5,5,5,3,3,15,2,,,,,,,,,306.6751016001217,306.6751016001217,306.6751016001217,306.6751016001217,306.6751016001217,306.6751016001217,306.9447921998799,306.9447921998799,306.9447921998799,306.9447921998799,306.9447921998799,i,1,1.2222233000211418,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 6 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_6.jpg,1,text_trial_type_1,img_trial_type_1,0,5,5,5,4,0,16,0,,,,,,,,,308.1961873001419,308.1961873001419,308.1961873001419,308.1961873001419,308.1961873001419,308.1961873001419,308.4952274002135,308.4952274002135,308.4952274002135,308.4952274002135,308.4952274002135,i,1,1.447376700118184,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 6 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_6.jpg,4,text_trial_type_4,img_trial_type_4,0,5,5,5,4,1,17,3,,,,,,,,,309.96666679996997,309.96666679996997,309.96666679996997,309.96666679996997,309.96666679996997,309.96666679996997,310.2617043000646,310.2617043000646,310.2617043000646,310.2617043000646,310.2617043000646,e,1,1.8349752998910844,i,1,0.9659449001774192,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 6 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_6.jpg,4,text_trial_type_4,img_trial_type_4,0,5,5,5,4,2,18,3,,,,,,,,,312.1349181002006,312.1349181002006,312.1349181002006,312.1349181002006,312.1349181002006,312.1349181002006,312.42822850029916,312.42822850029916,312.42822850029916,312.42822850029916,312.42822850029916,e,1,0.9478182001039386,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 6 of 7
+
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+If you make a mistake, a red X will appear. Press the other key to continue.
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_6.jpg,1,text_trial_type_1,img_trial_type_1,0,5,5,5,4,3,19,0,,,,,,,,,313.3964943001047,313.3964943001047,313.3964943001047,313.3964943001047,313.3964943001047,313.3964943001047,313.69517139997333,313.69517139997333,313.69517139997333,313.69517139997333,313.69517139997333,i,1,0.7831159001216292,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,2,text_trial_type_2,img_trial_type_2,0,6,6,6,0,0,0,1,315.24529740028083,315.24529740028083,315.24529740028083,315.24529740028083,315.24529740028083,315.24529740028083,315.24529740028083,317.2452525999397,321.4000462000258,321.4000462000258,321.4000462000258,321.4000462000258,321.4000462000258,321.4000462000258,321.6785975000821,321.6785975000821,321.6785975000821,321.6785975000821,321.6785975000821,e,1,0.7721525998786092,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,1,text_trial_type_1,img_trial_type_1,0,6,6,6,0,1,1,0,,,,,,,,,322.47820300003514,322.47820300003514,322.47820300003514,322.47820300003514,322.47820300003514,322.47820300003514,322.77834440022707,322.77834440022707,322.77834440022707,322.77834440022707,322.77834440022707,i,1,0.7483385996893048,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,3,text_trial_type_3,img_trial_type_3,0,6,6,6,0,2,2,2,,,,,,,,,323.5510801002383,323.5510801002383,323.5510801002383,323.5510801002383,323.5510801002383,323.5510801002383,323.84526350023225,323.84526350023225,323.84526350023225,323.84526350023225,323.84526350023225,i,1,1.4816129999235272,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,4,text_trial_type_4,img_trial_type_4,0,6,6,6,0,3,3,3,,,,,,,,,325.3545387000777,325.3545387000777,325.3545387000777,325.3545387000777,325.3545387000777,325.3545387000777,325.64509830018505,325.64509830018505,325.64509830018505,325.64509830018505,325.64509830018505,e,1,0.7760710003785789,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,3,text_trial_type_3,img_trial_type_3,0,6,6,6,1,0,4,2,,,,,,,,,326.453120900318,326.453120900318,326.453120900318,326.453120900318,326.453120900318,326.453120900318,326.7453636000864,326.7453636000864,326.7453636000864,326.7453636000864,326.7453636000864,i,1,0.8516592001542449,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,1,text_trial_type_1,img_trial_type_1,0,6,6,6,1,1,5,0,,,,,,,,,327.6296904999763,327.6296904999763,327.6296904999763,327.6296904999763,327.6296904999763,327.6296904999763,327.9284179001115,327.9284179001115,327.9284179001115,327.9284179001115,327.9284179001115,i,1,1.61464439984411,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,4,text_trial_type_4,img_trial_type_4,0,6,6,6,1,2,6,3,,,,,,,,,329.569269800093,329.569269800093,329.569269800093,329.569269800093,329.569269800093,329.569269800093,329.86215800000355,329.86215800000355,329.86215800000355,329.86215800000355,329.86215800000355,e,1,0.9773164996877313,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,1,text_trial_type_1,img_trial_type_1,0,6,6,6,1,3,7,0,,,,,,,,,330.86397890001535,330.86397890001535,330.86397890001535,330.86397890001535,330.86397890001535,330.86397890001535,331.1624356000684,331.1624356000684,331.1624356000684,331.1624356000684,331.1624356000684,i,1,0.7006128998473287,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,4,text_trial_type_4,img_trial_type_4,0,6,6,6,2,0,8,3,,,,,,,,,331.91875450033695,331.91875450033695,331.91875450033695,331.91875450033695,331.91875450033695,331.91875450033695,332.19573680032045,332.19573680032045,332.19573680032045,332.19573680032045,332.19573680032045,e,1,0.7951772999949753,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,4,text_trial_type_4,img_trial_type_4,0,6,6,6,2,1,9,3,,,,,,,,,333.0187663002871,333.0187663002871,333.0187663002871,333.0187663002871,333.0187663002871,333.0187663002871,333.311839800328,333.311839800328,333.311839800328,333.311839800328,333.311839800328,e,1,0.7181711001321673,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,2,text_trial_type_2,img_trial_type_2,0,6,6,6,2,2,10,1,,,,,,,,,334.06374730030075,334.06374730030075,334.06374730030075,334.06374730030075,334.06374730030075,334.06374730030075,334.36199410026893,334.36199410026893,334.36199410026893,334.36199410026893,334.36199410026893,e,1,1.149827899876982,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,3,text_trial_type_3,img_trial_type_3,0,6,6,6,2,3,11,2,,,,,,,,,335.53440380003303,335.53440380003303,335.53440380003303,335.53440380003303,335.53440380003303,335.53440380003303,335.82879110006616,335.82879110006616,335.82879110006616,335.82879110006616,335.82879110006616,i,1,0.8338080998510122,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,2,text_trial_type_2,img_trial_type_2,0,6,6,6,3,0,12,1,,,,,,,,,336.69694530032575,336.69694530032575,336.69694530032575,336.69694530032575,336.69694530032575,336.69694530032575,336.99591420032084,336.99591420032084,336.99591420032084,336.99591420032084,336.99591420032084,e,1,1.1915539000183344,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,2,text_trial_type_2,img_trial_type_2,0,6,6,6,3,1,13,1,,,,,,,,,338.21184680005535,338.21184680005535,338.21184680005535,338.21184680005535,338.21184680005535,338.21184680005535,338.512419400271,338.512419400271,338.512419400271,338.512419400271,338.512419400271,e,1,0.9544665003195405,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,3,text_trial_type_3,img_trial_type_3,0,6,6,6,3,2,14,2,,,,,,,,,339.5022066999227,339.5022066999227,339.5022066999227,339.5022066999227,339.5022066999227,339.5022066999227,339.77943459991366,339.77943459991366,339.77943459991366,339.77943459991366,339.77943459991366,i,1,0.8239462003111839,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,1,text_trial_type_1,img_trial_type_1,0,6,6,6,3,3,15,0,,,,,,,,,340.6304228999652,340.6304228999652,340.6304228999652,340.6304228999652,340.6304228999652,340.6304228999652,340.9300432000309,340.9300432000309,340.9300432000309,340.9300432000309,340.9300432000309,i,1,1.004329000134021,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,3,text_trial_type_3,img_trial_type_3,0,6,6,6,4,0,16,2,,,,,,,,,341.9761532000266,341.9761532000266,341.9761532000266,341.9761532000266,341.9761532000266,341.9761532000266,342.26225170027465,342.26225170027465,342.26225170027465,342.26225170027465,342.26225170027465,i,1,1.3878942001610994,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,2,text_trial_type_2,img_trial_type_2,0,6,6,6,4,1,17,1,,,,,,,,,343.68027279991657,343.68027279991657,343.68027279991657,343.68027279991657,343.68027279991657,343.68027279991657,343.9789765002206,343.9789765002206,343.9789765002206,343.9789765002206,343.9789765002206,e,1,1.1769333998672664,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,1,text_trial_type_1,img_trial_type_1,0,6,6,6,4,2,18,0,,,,,,,,,345.17885289993137,345.17885289993137,345.17885289993137,345.17885289993137,345.17885289993137,345.17885289993137,345.4788140002638,345.4788140002638,345.4788140002638,345.4788140002638,345.4788140002638,i,1,0.9580318997614086,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,4,text_trial_type_4,img_trial_type_4,0,6,6,6,4,3,19,3,,,,,,,,,346.46992040006444,346.46992040006444,346.46992040006444,346.46992040006444,346.46992040006444,346.46992040006444,346.762379700318,346.762379700318,346.762379700318,346.762379700318,346.762379700318,e,1,1.0149551001377404,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,4,text_trial_type_4,img_trial_type_4,0,6,6,6,5,0,20,3,,,,,,,,,347.8263671002351,347.8263671002351,347.8263671002351,347.8263671002351,347.8263671002351,347.8263671002351,348.0963948001154,348.0963948001154,348.0963948001154,348.0963948001154,348.0963948001154,e,1,0.8139307997189462,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,1,text_trial_type_1,img_trial_type_1,0,6,6,6,5,1,21,0,,,,,,,,,348.9342888998799,348.9342888998799,348.9342888998799,348.9342888998799,348.9342888998799,348.9342888998799,349.2314344001934,349.2314344001934,349.2314344001934,349.2314344001934,349.2314344001934,i,1,0.7979073999449611,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,2,text_trial_type_2,img_trial_type_2,0,6,6,6,5,2,22,1,,,,,,,,,350.0454979999922,350.0454979999922,350.0454979999922,350.0454979999922,350.0454979999922,350.0454979999922,350.3459060001187,350.3459060001187,350.3459060001187,350.3459060001187,350.3459060001187,e,1,0.6055543003603816,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,3,text_trial_type_3,img_trial_type_3,0,6,6,6,5,3,23,2,,,,,,,,,350.99029430001974,350.99029430001974,350.99029430001974,350.99029430001974,350.99029430001974,350.99029430001974,351.27933510020375,351.27933510020375,351.27933510020375,351.27933510020375,351.27933510020375,i,1,0.9228564002551138,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,1,text_trial_type_1,img_trial_type_1,0,6,6,6,6,0,24,0,,,,,,,,,352.23091420019045,352.23091420019045,352.23091420019045,352.23091420019045,352.23091420019045,352.23091420019045,352.52922820020467,352.52922820020467,352.52922820020467,352.52922820020467,352.52922820020467,i,1,0.9409177000634372,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,1,text_trial_type_1,img_trial_type_1,0,6,6,6,6,1,25,0,,,,,,,,,353.4952428000979,353.4952428000979,353.4952428000979,353.4952428000979,353.4952428000979,353.4952428000979,353.79614870017394,353.79614870017394,353.79614870017394,353.79614870017394,353.79614870017394,i,1,0.5192688000388443,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,1,text_trial_type_1,img_trial_type_1,0,6,6,6,6,2,26,0,,,,,,,,,354.3456367999315,354.3456367999315,354.3456367999315,354.3456367999315,354.3456367999315,354.3456367999315,354.64600880024955,354.64600880024955,354.64600880024955,354.64600880024955,354.64600880024955,i,1,0.5293529997579753,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,3,text_trial_type_3,img_trial_type_3,0,6,6,6,6,3,27,2,,,,,,,,,355.21624349988997,355.21624349988997,355.21624349988997,355.21624349988997,355.21624349988997,355.21624349988997,355.49642219999805,355.49642219999805,355.49642219999805,355.49642219999805,355.49642219999805,i,1,1.0951748001389205,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,3,text_trial_type_3,img_trial_type_3,0,6,6,6,7,0,28,2,,,,,,,,,356.6232893001288,356.6232893001288,356.6232893001288,356.6232893001288,356.6232893001288,356.6232893001288,356.9132409002632,356.9132409002632,356.9132409002632,356.9132409002632,356.9132409002632,i,1,0.5276097003370523,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,4,text_trial_type_4,img_trial_type_4,0,6,6,6,7,1,29,3,,,,,,,,,357.4731060001068,357.4731060001068,357.4731060001068,357.4731060001068,357.4731060001068,357.4731060001068,357.76270910026506,357.76270910026506,357.76270910026506,357.76270910026506,357.76270910026506,e,1,0.6830518003553152,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,4,text_trial_type_4,img_trial_type_4,0,6,6,6,7,2,30,3,,,,,,,,,358.471590900328,358.471590900328,358.471590900328,358.471590900328,358.471590900328,358.471590900328,358.762491799891,358.762491799891,358.762491799891,358.762491799891,358.762491799891,e,1,0.4078796999529004,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,2,text_trial_type_2,img_trial_type_2,0,6,6,6,7,3,31,1,,,,,,,,,359.19738369993865,359.19738369993865,359.19738369993865,359.19738369993865,359.19738369993865,359.19738369993865,359.4966672002338,359.4966672002338,359.4966672002338,359.4966672002338,359.4966672002338,e,1,0.6290543000213802,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,2,text_trial_type_2,img_trial_type_2,0,6,6,6,8,0,32,1,,,,,,,,,360.1457209000364,360.1457209000364,360.1457209000364,360.1457209000364,360.1457209000364,360.1457209000364,360.4461266002618,360.4461266002618,360.4461266002618,360.4461266002618,360.4461266002618,e,1,0.6492412998341024,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,3,text_trial_type_3,img_trial_type_3,0,6,6,6,8,1,33,2,,,,,,,,,361.11814630031586,361.11814630031586,361.11814630031586,361.11814630031586,361.11814630031586,361.11814630031586,361.41290759993717,361.41290759993717,361.41290759993717,361.41290759993717,361.41290759993717,i,1,1.4087022999301553,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,4,text_trial_type_4,img_trial_type_4,0,6,6,6,8,2,34,3,,,,,,,,,362.85611370019615,362.85611370019615,362.85611370019615,362.85611370019615,362.85611370019615,362.85611370019615,363.13068940024823,363.13068940024823,363.13068940024823,363.13068940024823,363.13068940024823,e,1,0.8789118998683989,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,2,text_trial_type_2,img_trial_type_2,0,6,6,6,8,3,35,1,,,,,,,,,364.030556099955,364.030556099955,364.030556099955,364.030556099955,364.030556099955,364.030556099955,364.3298161001876,364.3298161001876,364.3298161001876,364.3298161001876,364.3298161001876,e,1,0.6394814001396298,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,3,text_trial_type_3,img_trial_type_3,0,6,6,6,9,0,36,2,,,,,,,,,365.0044128000736,365.0044128000736,365.0044128000736,365.0044128000736,365.0044128000736,365.0044128000736,365.2963375002146,365.2963375002146,365.2963375002146,365.2963375002146,365.2963375002146,i,1,0.8575136000290513,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,4,text_trial_type_4,img_trial_type_4,0,6,6,6,9,1,37,3,,,,,,,,,366.189862200059,366.189862200059,366.189862200059,366.189862200059,366.189862200059,366.189862200059,366.479552899953,366.479552899953,366.479552899953,366.479552899953,366.479552899953,e,1,0.6463628998026252,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,1,text_trial_type_1,img_trial_type_1,0,6,6,6,9,2,38,0,,,,,,,,,367.1473273001611,367.1473273001611,367.1473273001611,367.1473273001611,367.1473273001611,367.1473273001611,367.44618560001254,367.44618560001254,367.44618560001254,367.44618560001254,367.44618560001254,i,1,0.7970604998990893,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+"Part 7 of 7
+
+This is the same as the previous part.
+Use the 'E' key for the categories on the left.
+Use the 'I' key for the categories on the right.
+Each item belongs to only one category.
+
+GO AS FAST AS YOU CAN while being accurate.
+
+Press 'E' or 'I' when you are ready to start.",Black People,White People,Bad,Good,or,instr_7.jpg,2,text_trial_type_2,img_trial_type_2,0,6,6,6,9,3,39,1,,,,,,,,,368.26334189996123,368.26334189996123,368.26334189996123,368.26334189996123,368.26334189996123,368.26334189996123,368.5632178001106,368.5632178001106,368.5632178001106,368.5632178001106,368.5632178001106,e,1,0.4445325001142919,None,0,,,,M,28,018,2022-12-01_12h18.41.979,IAT,2022.2.2,59.93353369342959,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,369.77913950011134,372.7791420002468,,,,,,,,
