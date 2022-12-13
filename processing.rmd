@@ -37,7 +37,7 @@ library(data.table)
 
 # data acquisition and cleaning
 files <- list.files(pattern = "\\.csv$")  # Create a list of the csv files in the current folder
-input_data <- tibble::as_tibble(rbind.fill(lapply(files, fread, header=TRUE))) %>%
+input_data <- tbl_df(rbind.fill(lapply(files, fread, header=TRUE))) %>%
   # Make some variable names more transparent, plus rectify the the accuracy variable
   rename(block = blocks.thisN, # current block
          trial = trials.thisN, # trial order of presentation within each block
